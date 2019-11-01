@@ -1,10 +1,11 @@
-## Developer Portfolio Landing Page Template
+# My Portfolio Page
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+This repository is mainly for my side project or experiment on stuff. Links will be provided to access my projects such as itch.io, LudumDare, Global Game Jam.
+
+Used https://github.com/evanca/quick-portfolio as template.
 
 <img src="images/demo.gif?raw=true"/>
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
 ___
 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
