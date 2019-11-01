@@ -4,7 +4,7 @@ This repository is mainly for my side project or experiment on stuff. Links will
 
 Used https://github.com/evanca/quick-portfolio as template.
 
-<img src="images/demo.gif?raw=true"/>
+<img src="images/ProfilePic.jpg?raw=true"/>
 
 ___
 
