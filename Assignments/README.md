@@ -1,3 +1,3 @@
 ## Assignments from University of Wollongong (KDU)
 
-Mainly serves as a storage for future references.
+Mainly serves as a code storage for future references.
