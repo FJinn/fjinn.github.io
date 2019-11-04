@@ -4,7 +4,7 @@ Here will not allow full project folder, but just one or two files(.h/.cpp) from
 
 **Begin with article/book reading -> Google/Youtube for further learning/understanding -> Implementation -> HERE :smiley:**
 
-## Bezier Curve
+## [Bezier Curve](/FunProjects/BezierCurve.h)
 Put it in a simple way, it is a (curve) line from Point A to Point B, in 0-1 time, with a control point.
 
 A point's position in a Bezier Curve line is based on the position of a point in three lines at the time(t).
@@ -21,7 +21,7 @@ Example of how the curve is formed:
 _
 
 
-## GJK Algorithm
+## [GJK Algorithm](/FunProjects/GJKAlgorithm.cpp)
 
 [Casey Muratori](https://youtu.be/Qupqu1xe7Io) and [Igor Kroitor](https://github.com/kroitor/gjk.c) are **must-see-reference**.
 
