@@ -1,4 +1,4 @@
-# Place for FUN
+# [Place for FUN](https://github.com/FJinn/fjinn.github.io/tree/master/FunProjects)
 
 Here will not allow full project folder, but just one or two files(.h/.cpp) from project ~~or something else~~ :thinking:
 
