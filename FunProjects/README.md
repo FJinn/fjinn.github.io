@@ -23,7 +23,7 @@ _
 
 ## [GJK Algorithm](/FunProjects/GJKAlgorithm.cpp)
 
-[Casey Muratori](https://youtu.be/Qupqu1xe7Io) and [Igor Kroitor](https://github.com/kroitor/gjk.c) are **must-see-reference**.
+[Casey Muratori's tutorial](https://youtu.be/Qupqu1xe7Io) and [Igor Kroitor's Github Page](https://github.com/kroitor/gjk.c) are **must-see-reference**.
 
 GJK algorithm is an algorithm for collision detection for convex polygon.
 Only 2D is implemented/tested/coded here.
