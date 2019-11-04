@@ -34,26 +34,4 @@ inline Vector ControlPointFromPassThroughPoint(Vector originalPoint, Vector pass
 	return controlPoint;
 }
 
-// not done due to time restriction in game jam
-inline Vector MultiCurve(Vector points[], double t)
-{
-	Vector firstControlPoint, secondControlPoint, midPoint;
-
-	static double time = 1 / (points->length() - 1);
-
-	static int index = 0;
-
-	// get mid point as final point for quadratic curve function, and repeat
-	if (index <= points->length() - 2)
-	{
-		firstControlPoint = points[index + 1];
-		secondControlPoint = points[index + 2];
-
-		midPoint.mVal[0] = (firstControlPoint.mVal[0] + secondControlPoint.mVal[0]) / 2;
-		midPoint.mVal[1] = (firstControlPoint.mVal[1] + secondControlPoint.mVal[1]) / 2;
-	}
-
-	return Vector(0,0,0);
-}
-
 #endif
