@@ -17,7 +17,20 @@ Since some games were not posted through my account, they are missing from my ac
 
 **Check out my [LinkedIn](https://www.linkedin.com/in/fjinnphang/) for more games I have developed**
 
-_
+## Something I have been working on
+[My Side Project/Experiment/Fun Stuff](https://github.com/FJinn/fjinn.github.io/tree/master/FunProjects)
+
+
+
+___
+
+
+
+
+
+
+___
+
 
 <img src="images/ProfilePic.jpg?raw=true"/>
 
