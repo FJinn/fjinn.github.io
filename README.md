@@ -9,7 +9,7 @@ This repository is mainly for my side project/assignment/experiment.
 Find out more about **[ME](https://www.linkedin.com/in/fjinnphang/)**
 
 My Account for some of my Game Projects: :
-[itch.io](https://pfjinn.itch.io/), [LudumDare](https://ldjam.com/users/phangfengjinn/games), [Global Game Jam]-(https://globalgamejam.org/users/fjinn).
+[itch.io](https://pfjinn.itch.io/), [LudumDare](https://ldjam.com/users/phangfengjinn/games), [Global Game Jam](https://globalgamejam.org/users/fjinn).
 
 
 
