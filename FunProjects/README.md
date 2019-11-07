@@ -2,6 +2,7 @@
 
 Here will not allow full project folder, but just one or two files(.h/.cpp) from project ~~or something else~~ :thinking:
 
+## How it started
 **Begin with article/book reading -> Google/Youtube for further learning/understanding -> Implementation -> HERE :smiley:**
 
 ## [Bezier Curve](/FunProjects/BezierCurve.h)
