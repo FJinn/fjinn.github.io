@@ -1,6 +1,13 @@
 ## Portfolio
 **Check out my [LinkedIn](https://www.linkedin.com/in/fjinnphang/)!**
 
+### Side Project/Work -> Something I Have Fun With :smiley:
+
+- [Bezier Curve](/FunProjects/README.md)
+
+- [GJK Algorithm](/FunProjects/README.md)
+
+---
 ---
 
 ### Some of My Games
@@ -38,14 +45,6 @@ Genres given: Combat, Turn-based, Military
 Theme: Death, Fighting Fate
 It is our first try on Unreal Engine without any prior knowledge about the game engine.
 Our intention was to learn the game engine through the game jam.
-
----
-
-### Side Project/Work
-
-- [Bezier Curve](/FunProjects/README.md)
-
-- [GJK Algorithm](/FunProjects/README.md)
 
 ---
 
