@@ -8,7 +8,6 @@
 - [GJK Algorithm](/FunProjects/README.md)
 
 ---
----
 
 ### Some of My Games
 
@@ -45,8 +44,6 @@ Genres given: Combat, Turn-based, Military
 Theme: Death, Fighting Fate
 It is our first try on Unreal Engine without any prior knowledge about the game engine.
 Our intention was to learn the game engine through the game jam.
-
----
 
 
 
