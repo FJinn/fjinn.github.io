@@ -1,5 +1,5 @@
 ## Portfolio
-**Check out my [LinkedIn](https://www.linkedin.com/in/fjinnphang/)!**
+**Check out my [LinkedIn] for more games I have involved in(https://www.linkedin.com/in/fjinnphang/)!**
 
 ### Side Project/Work -> Something I Have Fun With :smiley:
 
