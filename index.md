@@ -15,7 +15,7 @@
 
 ![ALIVE Image](https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=6fRlIq1GVkCn%2FYeYxdFdZgPlAIs%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjvcMWML7KipUAQcXgHjQBnLui1ETa1G464I9_meIh5icKzdsX5agYUbhl4lWdI)
 
-A game product of my subject Game Project Studio.
+A game product of my subject Game Project Studio. The game was made in Unity and it was my first time to experience the game development process.
 
 [Wandering Soot](https://ldjam.com/events/ludum-dare/42/wandering-soot)
 ![Wandeting Soot Image](https://media-exp1.licdn.com/media-proxy/ext?w=1920&h=1080&f=n&hash=4xiQbKVv3So5o0rMTKG9XpgFkUg%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISIfYC2G8G2f1spyfNT-tdoDSeLujpEtOdS0BmAQkKeL2VmiwUcuxL8jmNZoQiu-FbZihcQEeUxcPlD1py8kVfEsGs5vjVs-2bzxPj70dPwy8FZvKU2o7ARc67culf4vOGGg3-2a9CIrCAe1zSrY398wK8QgAr9XKO9MmkZo82SVEnA-xr6irAB85-MeCPmuzSnUGOTTTFe1khPy3wzemnVb113w)
