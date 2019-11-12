@@ -32,7 +32,7 @@ ___
 ___
 
 
-<img src="images/ProfilePic.jpg?raw=true"/>
+<img src="images/Sketch01.jng?raw=true"/>
 
 ___
 
