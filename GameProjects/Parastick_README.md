@@ -1,4 +1,4 @@
-# [Parastick](https://ldjam.com/events/ludum-dare/44/parastick)
+# -> [Parastick](https://ldjam.com/events/ludum-dare/44/parastick) <-
 
 This is an endless 'runner' game my team and I made for Ludum Dare 44.
 
