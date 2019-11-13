@@ -1,6 +1,6 @@
 # Games that I have involved in its development. (Chronological Order)
 
-## [Nasty Samurai Wrangler](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/ALIVE_README.md)
+## [Nasty Samurai Wrangler](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/SamuraiWrangler_README.md)
 
 ![SamuraiWrangler01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/SamuraiWrangler01.png) 
 ![SamuraiWrangler02](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/SamuraiWrangler02.png)
