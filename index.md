@@ -1,5 +1,5 @@
 # Portfolio
-**Check out my [LinkedIn] for more games I have involved in(https://www.linkedin.com/in/fjinnphang/)!**
+**Check out my [LinkedIn](https://www.linkedin.com/in/fjinnphang/) for more!**
 
 ## Side Project/Work -> Something I Have Fun With :smiley:
 
@@ -13,51 +13,51 @@
 
 ## Games I Have Developed (Solo/Team)
 
-### [Nasty Samurai Wrangler](GameProjects/SamuraiWrangler_README.md)
+### -> [Nasty Samurai Wrangler](GameProjects/SamuraiWrangler_README.md) <-
 
 <img src="GameProjects/Images/SamuraiWrangler01.png?raw=true"/> <img src="GameProjects/Images/SamuraiWrangler02.png?raw=true"/>
 <img src="GameProjects/Images/SamuraiWrangler03.png?raw=true"/>
 
-### [ALIVE](GameProjects/ALIVE_README.md)
+### -> [ALIVE](GameProjects/ALIVE_README.md) <-
 
 <img src="GameProjects/Images/ALIVE01.png?raw=true"/> <img src="GameProjects/Images/ALIVE02.png?raw=true"/>
 <img src="GameProjects/Images/ALIVE03.png?raw=true"/> <img src="GameProjects/Images/ALIVE04.png?raw=true"/>
 
-### [Wandering Soot](GameProjects/WanderingSoot_README.md)
+### -> [Wandering Soot](GameProjects/WanderingSoot_README.md) <-
 
 <img src="GameProjects/Images/WanderingSoot01.png?raw=true"/> <img src="GameProjects/Images/WanderingSoot02.png?raw=true"/>
 <img src="GameProjects/Images/WanderingSoot03.png?raw=true"/>
 
-### [Its a Mad, Mad Crystal Gold](GameProjects/ItsAMadMadCrystalGold_README.md)
+### -> [Its a Mad, Mad Crystal Gold](GameProjects/ItsAMadMadCrystalGold_README.md) <-
 
 <img src="GameProjects/Images/Madmad01.png?raw=true"/> <img src="GameProjects/Images/Madmad02.png?raw=true"/>
 <img src="GameProjects/Images/Madmad03.png?raw=true"/> <img src="GameProjects/Images/Madmad04.png?raw=true"/>
 
-### [Ethan Fry : Galactic Pirate Chef](GameProjects/EthanFry_README.md)
+### -> [Ethan Fry : Galactic Pirate Chef](GameProjects/EthanFry_README.md) <-
 
 <img src="GameProjects/Images/EthanFry01.png?raw=true"/> <img src="GameProjects/Images/EthanFry02.png?raw=true"/>
 <img src="GameProjects/Images/EthanFry03.png?raw=true"/> <img src="GameProjects/Images/EthanFry04.png?raw=true"/>
 
-### [The Day Of The Bomb Mission](GameProjects/TheDayOfBombMission_README.md)
+### -> [The Day Of The Bomb Mission](GameProjects/TheDayOfBombMission_README.md) <-
 
 <img src="GameProjects/Images/BombMission03.jpg?raw=true"/> <img src="GameProjects/Images/BombMission01.jpg?raw=true"/>
 <img src="GameProjects/Images/BombMission02.jpg?raw=true"/>
 
-### [Parastick](GameProjects/Parastick_README.md)
+### -> [Parastick](GameProjects/Parastick_README.md) <-
 
 <img src="GameProjects/Images/Parastick01.png?raw=true"/> <img src="GameProjects/Images/Parastick02.png?raw=true"/>
 <img src="GameProjects/Images/Parastick03.png?raw=true"/> <img src="GameProjects/Images/Parastick04.png?raw=true"/>
 
-### [Fated Death](GameProjects/FatedDeath_README.md)
+### -> [Fated Death](GameProjects/FatedDeath_README.md) <-
 
 <img src="GameProjects/Images/FatedDeath01.png?raw=true"/>
 
-### [Z](GameProjects/Z_README.md)
+### -> [Z](GameProjects/Z_README.md) <-
 
 <img src="GameProjects/Images/Z01.png?raw=true"/> <img src="GameProjects/Images/Z02.png?raw=true"/>
 <img src="GameProjects/Images/Z03.png?raw=true"/>
 
-### [My Phone Made This](GameProjects/MyPhoneMadeThis_README.md) 
+### -> [My Phone Made This](GameProjects/MyPhoneMadeThis_README.md) <-
 
 <img src="GameProjects/Images/SEAGameJam01.jpg?raw=true"/> <img src="GameProjects/Images/SEAGameJam02.jpg?raw=true"/>
 <img src="GameProjects/Images/SEAGameJam03.jpg?raw=true"/> <img src="GameProjects/Images/SEAGameJam04.jpg?raw=true"/>
