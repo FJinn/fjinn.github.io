@@ -57,7 +57,7 @@
 <img src="GameProjects/Images/Z01.png?raw=true"/> <img src="GameProjects/Images/Z02.png?raw=true"/>
 <img src="GameProjects/Images/Z03.png?raw=true"/>
 
-## My Phone Made This(GameProjects/MyPhoneMadeThis_README.md) 
+## [My Phone Made This](GameProjects/MyPhoneMadeThis_README.md) 
 
 <img src="GameProjects/Images/SEAGameJam01.jpg?raw=true"/> <img src="GameProjects/Images/SEAGameJam02.jpg?raw=true"/>
 <img src="GameProjects/Images/SEAGameJam03.jpg?raw=true"/> <img src="GameProjects/Images/SEAGameJam04.jpg?raw=true"/>
