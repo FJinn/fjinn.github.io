@@ -1,15 +1,3 @@
 # [ALIVE](https://kdu.itch.io/adt11presents-alive)
 
-![ALIVE01](https://github.com/FJinn/fjinn.github.io/blob/master/images/ALIVE01.png) 
-
-
-<img src="images\ALIVE01.png?raw=true"/>
-
-
-<img src="images\ALIVE02.png?raw=true"/>
-
-
-<img src="images/ALIVE03.png?raw=true"/>
-
-
-<img src="images/ALIVE04.png?raw=true"/>
+Put yourself and a partner in the shoes of two children; your captors have brought you both into an abandoned building, left to await fate unknown. Use the environment to your advantage in solving the many contraptions and avoid doom by hiding in the darkness. Together find your way out and uncover the menace looming within. Can you both escape a perilous predicament?
