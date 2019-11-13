@@ -1,4 +1,4 @@
-# [Fated Death](https://acekugen.itch.io/fateddeath)
+# -> [Fated Death](https://acekugen.itch.io/fateddeath) <-
 
 Genres given: Combat, Turn-based, Military
 Theme: Death, Fighting Fate
