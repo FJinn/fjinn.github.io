@@ -1,4 +1,4 @@
-# [Nasty Samurai Wrangler](https://globalgamejam.org/2018/games/nasty-samurai-wrangler)
+# -> [Nasty Samurai Wrangler](https://globalgamejam.org/2018/games/nasty-samurai-wrangler) <-
 
 This is my **FIRST GAME JAM GAME!**
 
