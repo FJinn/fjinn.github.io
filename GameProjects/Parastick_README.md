@@ -1,6 +1,3 @@
 # [Parastick](https://ldjam.com/events/ludum-dare/44/parastick)
 
-![Parastick01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/Parastick01.png) 
-![Parastick02](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/Parastick02.png)
-![Parastick03](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/Parastick03.png)
-![Parastick04](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/Parastick04.png)
+You are a parasite that wanna survive from deadly liquid that keep filling up dirty underground pipes by slingshotting yourself and keep moving forward by sticking to other living organisms. Your goal is to keep moving forward and keep yourself alive!
