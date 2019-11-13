@@ -1,4 +1,4 @@
-# To keep track of Games that I have involved in its development. (Chronological Order)
+# Games that I have involved in its development. (Chronological Order)
 
 ## [Nasty Samurai Wrangler](https://globalgamejam.org/2018/games/nasty-samurai-wrangler)
 
