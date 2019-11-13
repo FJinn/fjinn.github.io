@@ -12,6 +12,7 @@
 ---
 
 ## Games I Have Developed (Solo/Team)
+Most of them are products of Game Jam, in fact, only 3 of them are from my university assignments.
 
 ### -> [Revenge Of Witch](GameProjects/RevengeOfWitch_README.md) <-
 
