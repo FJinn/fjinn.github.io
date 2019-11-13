@@ -1,4 +1,4 @@
-# [Wandering Soot](https://ldjam.com/events/ludum-dare/42/wandering-soot)
+# -> [Wandering Soot](https://ldjam.com/events/ludum-dare/42/wandering-soot) <-
 
 My friends and I participated in this game jam (our second game jam) with only me had a little knowledge about Unity engine (engine we used for this game).
 
