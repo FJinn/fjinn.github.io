@@ -1,4 +1,4 @@
-# [Bezier Curve](/FunProjects/BezierCurve.h)
+# -> [Bezier Curve](/FunProjects/BezierCurve.h) <-
 
 Put it in a simple way, it is a (curve) line from Point A to Point B, in 0-1 time, with a control point.
 
