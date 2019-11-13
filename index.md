@@ -13,45 +13,45 @@
 
 ### Games I Have Developed (Solo/Team)
 
-## [Nasty Samurai Wrangler](https://globalgamejam.org/2018/games/nasty-samurai-wrangler)
+## [Nasty Samurai Wrangler](GameProjects/SamuraiWrangler_README.md)
 
 ![SamuraiWrangler01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/SamuraiWrangler01.png) 
 
-## [ALIVE](https://kdu.itch.io/adt11presents-alive)
+## [ALIVE](GameProjects/ALIVE_README.md)
 
 ![ALIVE01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/ALIVE01.png) 
 
-## [Wandering Soot](https://ldjam.com/events/ludum-dare/42/wandering-soot)
+## [Wandering Soot](GameProjects/WanderingSoot_README.md)
 
 ![WanderingSoot01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/WanderingSoot01.png) 
 
-## [Its a Mad, Mad Crystal Gold](https://acekugen.itch.io/its-a-mad-mad-crystal-gold)
+## [Its a Mad, Mad Crystal Gold](GameProjects/ItsAMadMadCrystalGold_README.md)
 
 ![Madmad01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/Madmad01.png) 
 
-## [Ethan Fry : Galactic Pirate Chef](https://play.google.com/store/apps/details?id=com.DejaVu.CookiingSpacePirate&hl=en)
+## [Ethan Fry : Galactic Pirate Chef](GameProjects/EthanFry_README.md)
 
 ![EthanFry01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/EthanFry01.png) 
 
-## [The Day Of The Bomb Mission](https://globalgamejam.org/2019/games/day-bomb-mission)
+## [The Day Of The Bomb Mission](GameProjects/TheDayOfBombMission_README.md)
 
 ![BombMission03](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/BombMission03.jpg)
 
-## [Parastick](https://ldjam.com/events/ludum-dare/44/parastick)
+## [Parastick](GameProjects/Parastick_README.md)
 
 ![Parastick01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/Parastick01.png) 
 
-## [Fated Death](https://acekugen.itch.io/fateddeath)
+## [Fated Death](GameProjects/FatedDeath_README.md)
 
 ![FatedDeath01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/FatedDeath01.png) 
 
-## [Z](https://pfjinn.itch.io/z)
+## [Z](GameProjects/Z_README.md)
 
 ![Z01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/Z01.png) 
 
 ## My Phone Made This
 
-![SEAGameJam01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/SEAGameJam01.jpg) 
+![SEAGameJam01](GameProjects/MyPhoneMadeThis_README.md) 
 
 
 
