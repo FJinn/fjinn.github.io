@@ -3,11 +3,11 @@
 
 ## Side Project/Work -> Something I Have Fun With :smiley:
 
-- [Bezier Curve](/FunProjects/README.md)
+- [Bezier Curve](/FunProjects/BezierCurve_README.md)
 
-- [GJK Algorithm](/FunProjects/README.md)
+- [GJK Algorithm](/FunProjects/GJKAlgorithm_README.md)
 
-- [Spatial Partition](/FunProjects/README.md)
+- [Spatial Partition](/FunProjects/SpatialPartition_README.md)
 
 ---
 
