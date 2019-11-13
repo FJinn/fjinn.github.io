@@ -10,4 +10,5 @@ At the last few hours, we made the call to turn the digital board game into an a
 
 We did feel sorry about it but all of us were happy that we were able to pull it off even though everything seemed to go wrong at moments.
 
+Nonetheless, it was quite a fresh experience to all of us.
 
