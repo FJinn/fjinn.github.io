@@ -8,8 +8,9 @@
 
 ## [Its a Mad, Mad Crystal Gold](https://acekugen.itch.io/its-a-mad-mad-crystal-gold)
 
-<img src="GameProjects/Images/Madmad01.png?raw=true"/><img src="GameProjects/Images/Madmad02.png?raw=true"/>
-<img src="GameProjects/Images/Madmad03.png?raw=true"/><img src="GameProjects/Images/Madmad04.png?raw=true"/>
+
+<img src="GameProjects/Images/Madmad01.PNG?raw=true"/> <img src="GameProjects/Images/Madmad02.PNG?raw=true"/>
+<img src="GameProjects/Images/Madmad03.PNG?raw=true"/> <img src="GameProjects/Images/Madmad04.PNG?raw=true"/>
 
 ## [Ethan Fry : Galactic Pirate Chef](https://play.google.com/store/apps/details?id=com.DejaVu.CookiingSpacePirate&hl=en)
 
