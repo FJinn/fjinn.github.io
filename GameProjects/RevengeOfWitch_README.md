@@ -2,7 +2,7 @@
 
 This is the **FIRST** game I made.
 
-As the first step in game development, this game is made in Stencyl. 
+As my first step in game development, this game was made in Stencyl. 
 
 While the music is not belonged to me, the art and code are fully created by myself.
 
