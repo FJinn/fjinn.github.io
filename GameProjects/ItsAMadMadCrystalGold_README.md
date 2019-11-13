@@ -1,3 +1,9 @@
 # [Its a Mad, Mad Crystal Gold](https://acekugen.itch.io/its-a-mad-mad-crystal-gold)
 
-Dig your way to the bottom to find the Mad, Mad Crystal Gold. Along the way there will be a cursed clown and chocolate ghost that will chase you. The goal is to  get the Mad,Mad Crystal Gold while surviving the clown and ghost that are chasing you. This project was created for game jam in 48 hours.
+Another game jam game.
+
+In this game jam, my team and I wanted to make an arcade-like game as none of us had any experience with this genre before.
+
+This was the first game jam for one of my team members and most of us were just a beginner on Unity engine. 
+
+We were all having our good times as all of us were helping each other to get familiar with Unity Engine while trying to put everything together to make a game.
