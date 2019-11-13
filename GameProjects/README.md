@@ -9,7 +9,7 @@
 ## [ALIVE](https://kdu.itch.io/adt11presents-alive)
 
 ![ALIVE01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/ALIVE01.png) 
-![ALIVE02](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/ALIVE05.png)
+![ALIVE02](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/ALIVE02.png)
 ![ALIVE03](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/ALIVE03.png)
 ![ALIVE04](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/ALIVE04.png)
 
@@ -18,7 +18,6 @@
 ![WanderingSoot01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/WanderingSoot01.png) 
 ![WanderingSoot02](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/WanderingSoot02.png)
 ![WanderingSoot03](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/WanderingSoot03.png)
-![WanderingSoot04](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/WanderingSoot04.png)
 
 ## [Its a Mad, Mad Crystal Gold](https://acekugen.itch.io/its-a-mad-mad-crystal-gold)
 
