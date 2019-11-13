@@ -1,3 +1,13 @@
 # [Nasty Samurai Wrangler](https://globalgamejam.org/2018/games/nasty-samurai-wrangler)
 
-You are Paul who just moved in into a new house. As you arrive you are felt tired and fell asleep 2 hours later you are awaken by a loud knocking sound coming from the basement. You woke up and saw footsteps and decided to investigate them. In the basement you are shocked by the sight of a dead corpse and run out of the house but the cursed has already been placed on you and you have to find a way to remove it. You then found out that the spirit is actually friendly and something else has placed the cursed and the spirit in that house is trying to help you find a way to solve it for him to rest in peace. Find the weakness of the samurai wrangler and beat him before you become his next victim. P/s there are loads of secrets!.
+This is my **FIRST GAME JAM GAME!**
+
+My friends and I were just enrolled in game development course few months ago and with some basic knowledge of Stencyl game engine, we took a leap of faith to join in our first game jam.
+
+It was indeed scary and stressed us out as we could not fully get the game to function as we wanted it to be. The atmosphere was even more horrifying when we saw other participants beahved extremely confident.
+
+To debunk the myth, game jam is not scary at all but fun and joyful. Most of the time, we were just scaring ourselves :smiley:  
+
+Nobody is judging and everyone is friendly enough to help you out without a second thought. 
+
+During the presentation section of the game jam, everyone was having fun including my team and I. We were all laughing at how the bugs turned out to be humorous and amusing :laughing: .
