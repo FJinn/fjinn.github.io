@@ -1,5 +1,3 @@
 # [Z](https://pfjinn.itch.io/z)
 
-![Z01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/Z01.png) 
-![Z02](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/Z02.png)
-![Z03](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/Z03.png)
+A blind man trying to get supply by following the sound the zombie made while avoiding it. He travels from one safe house to another. He needs to get enough supply before it runs out.
