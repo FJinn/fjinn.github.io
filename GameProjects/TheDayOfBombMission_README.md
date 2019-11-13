@@ -1,4 +1,4 @@
-# [The Day Of The Bomb Mission](https://globalgamejam.org/2019/games/day-bomb-mission)
+# -> [The Day Of The Bomb Mission](https://globalgamejam.org/2019/games/day-bomb-mission) <-
 
 In this game jam, we were trying to make a digital board game using Unity Engine.
 
