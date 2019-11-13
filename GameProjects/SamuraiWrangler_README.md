@@ -1,5 +1,3 @@
 # [Nasty Samurai Wrangler](https://globalgamejam.org/2018/games/nasty-samurai-wrangler)
 
-![SamuraiWrangler01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/SamuraiWrangler01.png) 
-![SamuraiWrangler02](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/SamuraiWrangler02.png)
-![SamuraiWrangler03](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/SamuraiWrangler03.png)
+You are Paul who just moved in into a new house. As you arrive you are felt tired and fell asleep 2 hours later you are awaken by a loud knocking sound coming from the basement. You woke up and saw footsteps and decided to investigate them. In the basement you are shocked by the sight of a dead corpse and run out of the house but the cursed has already been placed on you and you have to find a way to remove it. You then found out that the spirit is actually friendly and something else has placed the cursed and the spirit in that house is trying to help you find a way to solve it for him to rest in peace. Find the weakness of the samurai wrangler and beat him before you become his next victim. P/s there are loads of secrets!.
