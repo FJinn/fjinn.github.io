@@ -15,45 +15,43 @@
 
 ## [Nasty Samurai Wrangler](GameProjects/SamuraiWrangler_README.md)
 
-![SamuraiWrangler01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/SamuraiWrangler01.png) 
-
 <img src="GameProjects/Images/SamuraiWrangler01.png?raw=true"/>
 
 ## [ALIVE](GameProjects/ALIVE_README.md)
 
-![ALIVE01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/ALIVE01.png) 
+<img src="GameProjects/Images/ALIVE01.png?raw=true"/>
 
 ## [Wandering Soot](GameProjects/WanderingSoot_README.md)
 
-![WanderingSoot01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/WanderingSoot01.png) 
+<img src="GameProjects/Images/WanderingSoot01.png?raw=true"/>
 
 ## [Its a Mad, Mad Crystal Gold](GameProjects/ItsAMadMadCrystalGold_README.md)
 
-![Madmad01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/Madmad01.png) 
+<img src="GameProjects/Images/Madmad01.png?raw=true"/>
 
 ## [Ethan Fry : Galactic Pirate Chef](GameProjects/EthanFry_README.md)
 
-![EthanFry01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/EthanFry01.png) 
+<img src="GameProjects/Images/EthanFry01.png?raw=true"/>
 
 ## [The Day Of The Bomb Mission](GameProjects/TheDayOfBombMission_README.md)
 
-![BombMission03](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/BombMission03.jpg)
+<img src="GameProjects/Images/BombMission03.jpg?raw=true"/>
 
 ## [Parastick](GameProjects/Parastick_README.md)
 
-![Parastick01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/Parastick01.png) 
+<img src="GameProjects/Images/Parastick01.png?raw=true"/>
 
 ## [Fated Death](GameProjects/FatedDeath_README.md)
 
-![FatedDeath01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/FatedDeath01.png) 
+<img src="GameProjects/Images/FatedDeath01.png?raw=true"/>
 
 ## [Z](GameProjects/Z_README.md)
 
-![Z01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/Z01.png) 
+<img src="GameProjects/Images/Z01.png?raw=true"/>
 
-## My Phone Made This
+## My Phone Made This(GameProjects/MyPhoneMadeThis_README.md) 
 
-![SEAGameJam01](GameProjects/MyPhoneMadeThis_README.md) 
+<img src="GameProjects/Images/SEAGameJam01.jpg?raw=true"/>
 
 
 
