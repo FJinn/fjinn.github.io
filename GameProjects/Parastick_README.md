@@ -1,3 +1,5 @@
 # [Parastick](https://ldjam.com/events/ludum-dare/44/parastick)
 
-You are a parasite that wanna survive from deadly liquid that keep filling up dirty underground pipes by slingshotting yourself and keep moving forward by sticking to other living organisms. Your goal is to keep moving forward and keep yourself alive!
+This is an endless 'runner' game my team and I made for Ludum Dare 44.
+
+The game was made for mobile which was our first try on mobile game in a game jam. 
