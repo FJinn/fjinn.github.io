@@ -1,4 +1,4 @@
-# [Spatial Partition](/FunProjects/SpatialPartition.cpp)
+# -> [Spatial Partition](/FunProjects/SpatialPartition.cpp) <-
 
 [Game Programming Pattern - by Robert Nystrom](https://gameprogrammingpatterns.com/spatial-partition.html) 
 
