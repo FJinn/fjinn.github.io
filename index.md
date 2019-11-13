@@ -7,6 +7,8 @@
 
 - [GJK Algorithm](/FunProjects/README.md)
 
+- [Spatial Partition](/FunProjects/README.md)
+
 ---
 
 ### Some of My Games
