@@ -14,6 +14,8 @@
 
 ## [Ethan Fry : Galactic Pirate Chef](https://play.google.com/store/apps/details?id=com.DejaVu.CookiingSpacePirate&hl=en)
 
+## [The Day Of The Bomb Mission](https://globalgamejam.org/2019/games/day-bomb-mission)
+
 ## [Parastick](https://ldjam.com/events/ludum-dare/44/parastick)
 
 ## [Fated Death](https://acekugen.itch.io/fateddeath)
