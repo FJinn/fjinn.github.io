@@ -1,4 +1,4 @@
-# [GJK Algorithm](/FunProjects/GJKAlgorithm.cpp)
+# -> [GJK Algorithm](/FunProjects/GJKAlgorithm.cpp) <-
 
 [Casey Muratori's tutorial](https://youtu.be/Qupqu1xe7Io) and [Igor Kroitor's Github Page](https://github.com/kroitor/gjk.c) are **must-see-reference**.
 
