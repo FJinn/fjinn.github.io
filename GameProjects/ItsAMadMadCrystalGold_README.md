@@ -1,4 +1,4 @@
-# [Its a Mad, Mad Crystal Gold](https://acekugen.itch.io/its-a-mad-mad-crystal-gold)
+# -> [Its a Mad, Mad Crystal Gold](https://acekugen.itch.io/its-a-mad-mad-crystal-gold) <-
 
 Another game jam game.
 
