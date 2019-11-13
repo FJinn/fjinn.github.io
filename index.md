@@ -17,6 +17,8 @@
 
 ![SamuraiWrangler01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/SamuraiWrangler01.png) 
 
+<img src="GameProjects/Images/SamuraiWrangler01.png?raw=true"/>
+
 ## [ALIVE](GameProjects/ALIVE_README.md)
 
 ![ALIVE01](https://github.com/FJinn/fjinn.github.io/blob/master/GameProjects/Images/ALIVE01.png) 
