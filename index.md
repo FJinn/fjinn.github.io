@@ -27,6 +27,19 @@
 
 ---
 
+## 3D Game Programming
+
+### [Audio Visualizer With Shader](Assignments/3DGameProgramming/AudioVisualizerShader/README.md)
+
+<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/3DGameProgramming/Images/AudioVisualizerUsingShader.gif?raw=true" width="800" height="450" />
+
+### [Bloom Effect](Assignments/3DGameProgramming/BloomEffect/README.md)
+
+<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/3DGameProgramming/Images/BloomEffect.gif?raw=true" width="800" height="450" />
+
+
+---
+
 ## Games I Have Developed (Solo/Team)
 Most of them are products of Game Jam, in fact, only 3 of them are from my university assignments.
 My friends and I always want to try out something new and Game Jam serves as a platform for us to play around.
