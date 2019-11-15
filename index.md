@@ -11,6 +11,16 @@
 
 ---
 
+## AI Programming 
+
+- [Game Of Life](Assignments/AIProgramming/GameOfLife/GameOfLife_README.md)
+
+- [Boid Simulation](Assignments/AIProgramming/Boids/README.md) 
+
+- [Path Finding](Assignments/AIProgramming/GameOfLifeAndPathFinding/PathFinding_README.md)
+
+---
+
 ## Games I Have Developed (Solo/Team)
 Most of them are products of Game Jam, in fact, only 3 of them are from my university assignments.
 My friends and I always want to try out something new and Game Jam serves as a platform for us to play around.
