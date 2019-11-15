@@ -1,7 +1,22 @@
 # Portfolio
 **Check out my [LinkedIn](https://www.linkedin.com/in/fjinnphang/) for more!**
 
-## Side Project/Work -> Something I Have Fun With :smiley:
+Contents
+=================
+
+<!--ts-->
+   * [LinkedIn](#portfolio)
+   * [Contents](#contents)
+   * [Side Project/Work -> Something I Have Fun With :smiley:](#side-project)
+   * [AI Programming ](#ai-programming)
+   * [Graphic Programming](#graphic-programming)
+   * [3D Game Programming](#3d-game-programming)
+   * [Game Engine Architecture and Design](#game-engine-architecture-and-design)
+   * [Data Communication and Networking](#data-communication-and-networking)
+   * [Games I Have Developed (Solo/Team)](#my-games)
+<!--te-->
+
+## Side Project
 
 - [Bezier Curve](/FunProjects/BezierCurve_README.md)
 
@@ -67,8 +82,12 @@
 
 ---
 
-## Games I Have Developed (Solo/Team)
-Most of them are products of Game Jam, in fact, only 3 of them are from my university assignments.
+## My Games
+
+Most of them are products of Game Jam, and some of them are made by myself.
+
+In fact, only 3 of them are from my university assignments.
+
 My friends and I always want to try out something new and Game Jam serves as a platform for us to play around.
 
 ### -> [Revenge Of Witch](GameProjects/RevengeOfWitch_README.md) <-
