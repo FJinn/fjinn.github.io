@@ -1,6 +1,6 @@
 # [Path Finding](/Assignments/AIProgramming/GameOfLifeAndPathFinding/PathFindingAlgorithm.h)
 
-<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/PathFinding.gif" width="800" height="450" />
+<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/PathFinding.gif?raw=true" width="800" height="450" />
 
 **Dijkstra's Algorithm (1 list)**
 
