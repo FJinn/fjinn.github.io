@@ -1,12 +1,14 @@
 # Portfolio
 **Check out my [LinkedIn](https://www.linkedin.com/in/fjinnphang/) for more!**
 
-Contents
+**Click Words In Blue Color For More Information**
+
+Table of Contents
 =================
 
 <!--ts-->
    * [LinkedIn](#portfolio)
-   * [Contents](#contents)
+   * [Table of Contents](#table-of-contents)
    * [Side Project/Work -> Something I Have Fun With :smiley:](#side-project)
    * [AI Programming ](#ai-programming)
    * [Graphic Programming](#graphic-programming)
