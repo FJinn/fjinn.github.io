@@ -1,4 +1,4 @@
-# [Game Of Life](Assignments/AIProgramming/GameOfLifeAndPathFinding/GameOfLife.h)
+# [Game Of Life](/Assignments/AIProgramming/GameOfLifeAndPathFinding/GameOfLife.h)
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/GameOfLife.gif" width="800" height="450" />
 
