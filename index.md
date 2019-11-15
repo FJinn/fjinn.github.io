@@ -27,6 +27,18 @@
 
 ---
 
+## Graphic Programming
+
+### [Pokemon in Wireframe](/Assignments/GraphicProgramming/AllInOne/pokemon.h)
+
+<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/GraphicProgramming/Image/Pokemon.gif?raw=true" width="800" height="450" />
+
+### [Audio Visualizer](/Assignments/GraphicProgramming/AllInOne/audio_visualizer.h)
+
+<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/GraphicProgramming/Image/AudioVisualizer.gif?raw=true" width="800" height="450" />
+
+---
+
 ## 3D Game Programming
 
 ### [Audio Visualizer With Shader](Assignments/3DGameProgramming/AudioVisualizerShader/README.md)
@@ -37,6 +49,21 @@
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/3DGameProgramming/Images/BloomEffect.gif?raw=true" width="800" height="450" />
 
+---
+
+## Game Engine Architecture and Design
+
+### [Particle System](/Assignments/GameEngine/ParticleSystem/ParticleSystem.cpp)
+
+<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/GameEngine/Image/ParticleSystem.gif?raw=true" width="800" height="450" />
+
+---
+
+## Data Communication and Networking
+
+### [Tic Tac Toe](/Assignments/DataNetworking/Multiplayer_TicTacToe/TicTacToe.cpp)
+
+<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/DataNetworking/Image/TicTacToe.gif?raw=true"/>
 
 ---
 
