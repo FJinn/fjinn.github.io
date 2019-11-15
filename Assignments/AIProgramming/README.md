@@ -39,7 +39,7 @@ _
 7. Go back to step 4.
 8. Path: Working backwards from the target node, go from each node to its parent node until you reach the starting node.
 
-**A* Algorithm**
+**A-star Algorithm**
 
 Cost: F = G + (W) * H
 
