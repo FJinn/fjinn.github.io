@@ -44,7 +44,9 @@ _
 Cost: F = G + (W) * H
 
 G: The movement cost to move from the starting point A to a given node on the grid, following the path generated to get there.
+
 H: The estimated movement cost to move from that given node on the grid to the final destination, point B. This if often referred to as the heuristic, the reason why it is called that is because it is a guess.
+
 W: Heuristic cost multiplier to adjust quality and performance of the path. If W is 0, you will get Dijkstra path finding.
 
 1. Prepare 1 empty list : open list.
