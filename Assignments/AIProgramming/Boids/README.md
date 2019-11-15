@@ -1,4 +1,4 @@
-# [Boid Simulation](Assignments/AIProgramming/Boids/Boids.h)
+# [Boid Simulation](/Assignments/AIProgramming/Boids/Boids.h)
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/BoidSimulation.gif" width="800" height="450" />
 
