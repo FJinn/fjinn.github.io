@@ -15,15 +15,15 @@
 
 ### [Game Of Life](Assignments/AIProgramming/GameOfLifeAndPathFinding/GameOfLife_README.md)
 
-<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/GameOfLife.gif" width="800" height="450" />
+<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/GameOfLife.gif?raw=true" width="800" height="450" />
 
 ### [Path Finding](Assignments/AIProgramming/GameOfLifeAndPathFinding/PathFinding_README.md)
 
-<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/PathFinding.gif" width="800" height="450" />
+<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/PathFinding.gif?raw=true" width="800" height="450" />
 
 ### [Boid Simulation](Assignments/AIProgramming/Boids/README.md) 
 
-<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/BoidSimulation.gif" width="800" height="450" />
+<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/BoidSimulation.gif?raw=true" width="800" height="450" />
 
 ---
 
