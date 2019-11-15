@@ -13,7 +13,7 @@
 
 ## AI Programming 
 
-- [Game Of Life](Assignments/AIProgramming/GameOfLife/GameOfLife_README.md)
+- [Game Of Life](Assignments/AIProgramming/GameOfLifeAndPathFinding/GameOfLife_README.md)
 
 - [Boid Simulation](Assignments/AIProgramming/Boids/README.md) 
 
