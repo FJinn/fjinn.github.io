@@ -13,8 +13,6 @@ My Account for some of my Game Projects: :
 
 
 
-Since some games were not posted through my account, they are missing from my account page too :tired_face:
-
 **Check out my [LinkedIn](https://www.linkedin.com/in/fjinnphang/) for more games I have developed**
 
 ## Something I have been working on
