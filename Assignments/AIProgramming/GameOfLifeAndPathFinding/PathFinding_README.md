@@ -1,5 +1,4 @@
-
-## [Path Finding](Assignments/AIProgramming/GameOfLifeAndPathFinding/PathFindingAlgorithm.h)
+# [Path Finding](Assignments/AIProgramming/GameOfLifeAndPathFinding/PathFindingAlgorithm.h)
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/PathFinding.gif" width="800" height="450" />
 
