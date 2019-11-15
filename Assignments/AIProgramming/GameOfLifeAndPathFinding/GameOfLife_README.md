@@ -3,11 +3,15 @@
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/GameOfLife.gif?raw=true" width="800" height="450" />
 
 **Play/Pause** : Play or stop the simulation.
+
 **Clear** : Reset map (set cells to live or die)
+
 **Map Size** : Switch map size
+
 **Simulation Time** : Switch simulation speed
 
--> **Rules of Conway's Game of Life** <-
+-> [**Rules of Conway's Game of Life**](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) <-
+
 Every cell interacts with its 8 neighbours (horizontal, vertical, and diagonal). At each step in time, the following transitions occur:
 
 1. Any live cell with 1 or no live neighbours dies (loneliness).
