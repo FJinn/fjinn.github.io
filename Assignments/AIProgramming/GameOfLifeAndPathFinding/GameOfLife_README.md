@@ -1,6 +1,6 @@
 # [Game Of Life](/Assignments/AIProgramming/GameOfLifeAndPathFinding/GameOfLife.h)
 
-<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/GameOfLife.gif" width="800" height="450" />
+<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/GameOfLife.gif?raw=true" width="800" height="450" />
 
 **Play/Pause** : Play or stop the simulation.
 **Clear** : Reset map (set cells to live or die)
