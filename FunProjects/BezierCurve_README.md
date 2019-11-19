@@ -1,5 +1,7 @@
 # -> [Bezier Curve](/FunProjects/BezierCurve.h) <-
 
+ <img src="FunProjects/Image/BezierCurve.jpg?raw=true"/>
+
 Put it in a simple way, it is a (curve) line from Point A to Point B, in 0-1 time, with a control point.
 
 A point's position in a Bezier Curve line is based on the position of a point in three lines at the time(t).
