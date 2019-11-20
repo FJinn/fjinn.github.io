@@ -19,15 +19,15 @@
 
 ## Side Project
 
-### [Bezier Curve](/FunProjects/BezierCurve_README.md)
+### -> [Bezier Curve](/FunProjects/BezierCurve_README.md) <-
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/FunProjects/Image/BezierCurve.jpg?raw=true" width="650" height="450" />
 
-### [GJK Algorithm](/FunProjects/GJKAlgorithm_README.md)
+### -> [GJK Algorithm](/FunProjects/GJKAlgorithm_README.md) <-
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/FunProjects/Image/GJK05.jpg?raw=true" width="650" height="450" />
 
-### [Spatial Partition](/FunProjects/SpatialPartition_README.md)
+### -> [Spatial Partition](/FunProjects/SpatialPartition_README.md) <-
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/FunProjects/Image/SpatialPartition.jpg?raw=true" width="650" height="450" />
 
@@ -35,15 +35,15 @@
 
 ## AI Programming 
 
-### [Game Of Life](Assignments/AIProgramming/GameOfLifeAndPathFinding/GameOfLife_README.md)
+### -> [Game Of Life](Assignments/AIProgramming/GameOfLifeAndPathFinding/GameOfLife_README.md) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/GameOfLife.gif?raw=true" width="800" height="450" />
 
-### [Path Finding](Assignments/AIProgramming/GameOfLifeAndPathFinding/PathFinding_README.md)
+### -> [Path Finding](Assignments/AIProgramming/GameOfLifeAndPathFinding/PathFinding_README.md) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/PathFinding.gif?raw=true" width="800" height="450" />
 
-### [Boid Simulation](Assignments/AIProgramming/Boids/README.md) 
+### -> [Boid Simulation](Assignments/AIProgramming/Boids/README.md) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/BoidSimulation.gif?raw=true" width="800" height="450" />
 
@@ -51,11 +51,11 @@
 
 ## Graphic Programming
 
-### [Pokemon in Wireframe](/Assignments/GraphicProgramming/AllInOne/pokemon.h)
+### -> [Pokemon in Wireframe](/Assignments/GraphicProgramming/AllInOne/pokemon.h) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/GraphicProgramming/Image/Pokemon.gif?raw=true" width="800" height="450" />
 
-### [Audio Visualizer](/Assignments/GraphicProgramming/AllInOne/audio_visualizer.h)
+### -> [Audio Visualizer](/Assignments/GraphicProgramming/AllInOne/audio_visualizer.h) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/GraphicProgramming/Image/AudioVisualizer.gif?raw=true" width="800" height="450" />
 
@@ -63,11 +63,11 @@
 
 ## 3D Game Programming
 
-### [Audio Visualizer With Shader](Assignments/3DGameProgramming/AudioVisualizerShader/README.md)
+### -> [Audio Visualizer With Shader](Assignments/3DGameProgramming/AudioVisualizerShader/README.md) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/3DGameProgramming/Images/AudioVisualizerUsingShader.gif?raw=true" width="800" height="450" />
 
-### [Bloom Effect](Assignments/3DGameProgramming/BloomEffect/README.md)
+### -> [Bloom Effect](Assignments/3DGameProgramming/BloomEffect/README.md) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/3DGameProgramming/Images/BloomEffect.gif?raw=true" width="800" height="450" />
 
@@ -75,7 +75,7 @@
 
 ## Game Engine Architecture and Design
 
-### [Particle System](/Assignments/GameEngine/ParticleSystem/ParticleSystem.cpp)
+### -> [Particle System](/Assignments/GameEngine/ParticleSystem/ParticleSystem.cpp) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/GameEngine/Image/ParticleSystem.gif?raw=true" width="800" height="450" />
 
@@ -83,7 +83,7 @@
 
 ## Data Communication and Networking
 
-### [Tic Tac Toe](/Assignments/DataNetworking/Multiplayer_TicTacToe/TicTacToe.cpp)
+### -> [Tic Tac Toe](/Assignments/DataNetworking/Multiplayer_TicTacToe/TicTacToe.cpp) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/DataNetworking/Image/TicTacToe.gif?raw=true"/>
 
