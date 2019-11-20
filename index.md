@@ -29,6 +29,8 @@
 
 ### [Spatial Partition](/FunProjects/SpatialPartition_README.md)
 
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/FunProjects/Image/SpatialPartition.jpg?raw=true" width="650" height="450" />
+
 ---
 
 ## AI Programming 
