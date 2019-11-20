@@ -51,11 +51,11 @@
 
 ## Graphic Programming
 
-### -> [Pokemon in Wireframe](/Assignments/GraphicProgramming/AllInOne/pokemon.h) <-
+### -> [Pokemon in Wireframe](/Assignments/GraphicProgramming/AllInOne/Pokemon_README.md) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/GraphicProgramming/Image/Pokemon.gif?raw=true" width="800" height="450" />
 
-### -> [Audio Visualizer](/Assignments/GraphicProgramming/AllInOne/audio_visualizer.h) <-
+### -> [Audio Visualizer](/Assignments/GraphicProgramming/AllInOne/AudioVisualizer_README.md) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/GraphicProgramming/Image/AudioVisualizer.gif?raw=true" width="800" height="450" />
 
@@ -75,7 +75,7 @@
 
 ## Game Engine Architecture and Design
 
-### -> [Particle System](/Assignments/GameEngine/ParticleSystem/ParticleSystem.cpp) <-
+### -> [Particle System](/Assignments/GameEngine/ParticleSystem/ParticleSystem_README.md) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/GameEngine/Image/ParticleSystem.gif?raw=true" width="800" height="450" />
 
@@ -83,7 +83,7 @@
 
 ## Data Communication and Networking
 
-### -> [Tic Tac Toe](/Assignments/DataNetworking/Multiplayer_TicTacToe/TicTacToe.cpp) <-
+### -> [Tic Tac Toe](/Assignments/DataNetworking/Multiplayer_TicTacToe/TicTacToe_README.md) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/DataNetworking/Image/TicTacToe.gif?raw=true"/>
 
