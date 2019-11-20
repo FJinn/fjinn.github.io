@@ -21,6 +21,8 @@ G: The movement cost to move from the starting point A to a given node on the gr
 
 H: The estimated movement cost to move from that given node on the grid to the final destination, point B. This if often referred to as the heuristic, the reason why it is called that is because it is a guess.
 
+**Note: in this simulation, I didn't consider Euclidean distance, underestimated Heuristic, overestimated Heuristic, or cluster Heuristic, just a simple distance calculation based on difference in cells' row and column. Mostly because I hadn't learn about them when I was implementing this pathfinding simulation.
+
 W: Heuristic cost multiplier to adjust quality and performance of the path. If W is 0, you will get Dijkstra path finding.
 
 1. Prepare 1 empty list : open list.
