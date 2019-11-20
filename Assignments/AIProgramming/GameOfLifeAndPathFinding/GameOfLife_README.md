@@ -19,3 +19,8 @@ Every cell interacts with its 8 neighbours (horizontal, vertical, and diagonal).
 3. Any live cell with 4 or more live neighbours dies (overcrowding).
 4. Any dead cell with exactly three live neighbours becomes a live cell (reproduction).
 
+## Implementation
+
+To make these rules 'alive', I create a board with boolean that indicating if it is 'alive' or 'dead'.
+
+The rest is pretty simple, in the loop, the cells will check their neighbours state, and then update their own state, with the Conway's Game of Life's rules as the indicator. 
