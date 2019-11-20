@@ -10,7 +10,7 @@ The basic idea:
 1. Get Minkowski difference between two polygons.
 2. If the result shape contains origin (0,0,0), there are intersection between the polyons. No intersection if origin is not within the result shape.
 
-The 'detail' process (to know the **WHY and Real Details**, refer to the reference link above):
+The 'detail' process (to have a better understandings, please refer to the reference link above):
 1. Support function
    1. Get the furthest point using Minkowski difference from two polygons with the direction vector provided and put it in a container (for simplexes).
 2. Loop
