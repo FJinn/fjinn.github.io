@@ -8,7 +8,7 @@ This is created using OpenGL.
 
 The structure is simple.
 
-It started with main loop which will run a sinlge class instance called Application.
+It started with main loop which will run a single class instance called Application.
 
 In Application, objects or particles are created and updated.
 
