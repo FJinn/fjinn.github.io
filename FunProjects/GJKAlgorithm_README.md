@@ -31,7 +31,7 @@ Based on the GJK theory, I should calculate the algorithm using as much vertex p
 
 However, for the sake of simplicity, I just use at most 4 vertex points to run the GJK algorithm.
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/FunProjects/Image/GJK01.jpg?raw=true" width="650" height="450" />
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/FunProjects/Image/GJK02.jpg?raw=true" width="650" height="450" />
 
 2. To get Minkowski Space, I calculate the difference (or sum of Shape A + (- Shape B)) by using three vertices of triangle against each vertices of the square.
 
@@ -45,7 +45,7 @@ To make sure the result point is at the edge of the result shape in Minkowski Sp
 
 By doing the calculation, point from triangle - point from square, point D in Minkowski Space is found and put in the simplex container.
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/FunProjects/Image/GJK01.jpg?raw=true" width="650" height="450" />
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/FunProjects/Image/GJK03.jpg?raw=true" width="650" height="450" />
 
 3. Theoretically, we can find any other points to form the simplex. But to make things easier, I set the new direction as DO for the support function. 
 
@@ -57,7 +57,7 @@ If the dot product of result point and the direction (DO) is lesser than 0, mean
 
 In the image above, the result point is A, which is above origin (dot product of A and the direction (DO) will be > 0, since they are facing in the same direction).
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/FunProjects/Image/GJK01.jpg?raw=true" width="650" height="450" />
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/FunProjects/Image/GJK04.jpg?raw=true" width="650" height="450" />
 
 4. Now, I have a line AD after I put A into the simplex container. 
 
@@ -68,7 +68,7 @@ Using cross product of AD and DO/AO, I get the perpendicular line going out/in (
 The perpendicular line is then used to calculate the direction towards origin from the AD line by cross product it with DO/AO (again, depends on what we used just now). The equation, for example, will be: AD X DO X AD.
 **Triple product can be used to calculate the resulting perpendicular line too.
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/FunProjects/Image/GJK01.jpg?raw=true" width="650" height="450" />
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/FunProjects/Image/GJK05.jpg?raw=true" width="650" height="450" />
 
 5. After putting the new found point in the simplex container, now is left with checking if the triangle form by simplex contains origin.
 
