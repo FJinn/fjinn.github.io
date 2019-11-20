@@ -1,4 +1,6 @@
-# -> [Particle System](/Assignments/GameEngine/ParticleSystem/ParticleSystem.cpp) <-
+# A Super Simple Game Engine With Particle System
+
+## -> [Particle System](/Assignments/GameEngine/ParticleSystem/ParticleSystem.cpp) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/GameEngine/Image/ParticleSystem.gif?raw=true" />
 
@@ -17,3 +19,8 @@ Particle Object is a class that inherits from Game Object class which has the ba
 Particle Object has some attributes that helps to control itself. The most obvious one will be its lifetime as the performance of the game will be slowed down if all the particles are always alive and never removed from the game.
 
 In this implementation, I put in a simple AABB box collision so when the particles touches the 'box' object in the middle, their lifetime is set to zero.
+
+
+## Bezier Curve with This Simple Game Engine
+
+A game jam game is created using this. Mostly is to try out and have some fun with Bezier Curve: https://pfjinn.itch.io/z
