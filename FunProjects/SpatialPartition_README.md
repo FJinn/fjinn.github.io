@@ -18,7 +18,7 @@ In my implementation, if a cell has nothing like C, its pointer points to NULL.
 
 For cell B, it points to an object and the object points to NULL.
 
-Whereas in cell A, cell A's pointer points to one object, and the object points to another, and it goes on.
+Whereas in cell A, cell A's pointer points to one object, and the object points to another while keeping a record of previous pointing object if there is one. This goes on until the last one in the 'list' points to NULL.
 
 So when running the collision test, the machine does not need to run the test for one object against every single other objects in the game. Just those who are in the same cell or nearby cells. 
 
