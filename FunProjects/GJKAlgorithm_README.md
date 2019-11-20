@@ -72,11 +72,11 @@ The perpendicular line is then used to calculate the direction towards origin fr
 
 5. After putting the new found point in the simplex container, now is left with checking if the triangle form by simplex contains origin.
 
-To check if the origin is contained, let's say there is A, B, C points for the triangle. A, B, and C are really just the simplex I found before. 
+To check if the origin is contained, in this case, there are A, B, D points for the triangle. A, B, and D are really just the simplex I found before. 
 
-As before, I calculate the dot product of the perpendicular line of AB and point C. If it is lesser than 0, means origin is beyond point C. In other words, it does not contain origin. 
+As before, I calculate the dot product of the perpendicular line of AB and point D. If it is lesser than 0, means origin is beyond point D. In other words, it does not contain origin. 
 
-If it is not lesser, I repeat the calculation with BC and A, and lastly, CA and B. Basically three lines of triangle against the opposite point.
+If it is not lesser, I repeat the calculation with BD and A, and lastly, DA and B. Basically three lines of triangle against the opposite point.
 
 If all results return true, there is collision.
 
