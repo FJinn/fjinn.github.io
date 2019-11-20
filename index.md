@@ -19,13 +19,15 @@
 
 ## Side Project
 
+### [Bezier Curve](/FunProjects/BezierCurve_README.md)
+
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/FunProjects/Image/BezierCurve.jpg?raw=true" width="650" height="450" />
 
-- [Bezier Curve](/FunProjects/BezierCurve_README.md)
+### [GJK Algorithm](/FunProjects/GJKAlgorithm_README.md)
 
-- [GJK Algorithm](/FunProjects/GJKAlgorithm_README.md)
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/FunProjects/Image/GJK05.jpg?raw=true" width="650" height="450" />
 
-- [Spatial Partition](/FunProjects/SpatialPartition_README.md)
+### [Spatial Partition](/FunProjects/SpatialPartition_README.md)
 
 ---
 
