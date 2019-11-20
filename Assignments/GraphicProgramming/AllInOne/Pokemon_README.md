@@ -1,4 +1,4 @@
-# Pokemon in Wireframe
+# -> [Pokemon in Wireframe](/Assignments/GraphicProgramming/AllInOne/pokemon.h) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/GraphicProgramming/Image/Pokemon.gif?raw=true"/>
 
