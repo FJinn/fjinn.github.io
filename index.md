@@ -37,15 +37,15 @@
 
 ### -> [Game Of Life](Assignments/AIProgramming/GameOfLifeAndPathFinding/GameOfLife_README.md) <-
 
-<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/GameOfLife.gif?raw=true" width="800" height="450" />
+<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/GameOfLife.gif?raw=true" width="800" height="450" width="800" height="450" />
 
 ### -> [Path Finding](Assignments/AIProgramming/GameOfLifeAndPathFinding/PathFinding_README.md) <-
 
-<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/PathFinding.gif?raw=true" width="800" height="450" />
+<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/PathFinding.gif?raw=true" width="800" height="450" width="800" height="450" />
 
 ### -> [Boid Simulation](Assignments/AIProgramming/Boids/README.md) <-
 
-<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/BoidSimulation.gif?raw=true" width="800" height="450" />
+<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/BoidSimulation.gif?raw=true" width="800" height="450" width="800" height="450" />
 
 ---
 
@@ -96,6 +96,11 @@ Most of them are products of Game Jam, and some of them are made by myself.
 In fact, only 3 of them are from my university assignments.
 
 My friends and I always want to try out something new and Game Jam serves as a platform for us to play around.
+
+### -> [Mechamancers](Assignments/FundamentalOfGameDesign/Mechamancers/README.md) <-
+
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Assignments/FundamentalOfGameDesign/Images/cover.jpg?raw=true" width="354" height="216" /> <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Assignments/FundamentalOfGameDesign/Images/MM01.jpg?raw=true" width="354" height="216" />
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Assignments/FundamentalOfGameDesign/Images/MM02.jpg?raw=true" width="354" height="216" />
 
 ### -> [Revenge Of Witch](GameProjects/RevengeOfWitch_README.md) <-
 
