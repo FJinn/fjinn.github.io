@@ -1,6 +1,6 @@
-# -> [Pokemon in Wireframe](/Assignments/GraphicProgramming/AllInOne/pokemon.h) <-
+# -> [Pokemon in Wireframe](/Experiences/Assignments/GraphicProgramming/AllInOne/pokemon.h) <-
 
-<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/GraphicProgramming/Image/Pokemon.gif?raw=true"/>
+<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Experiences/Assignments/GraphicProgramming/Image/Pokemon.gif?raw=true"/>
 
 This is the one of the exercises that helps me to practice OpenGL.
 
