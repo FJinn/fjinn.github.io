@@ -15,7 +15,7 @@ Example of how the curve is formed:
 _
 
 
-## [GJK Algorithm](/ExperiencesProgramming/Math/GJKAlgorithm.cpp)
+## [GJK Algorithm](/Experiences/Programming/Math/GJKAlgorithm.cpp)
 
 [Casey Muratori's tutorial](https://youtu.be/Qupqu1xe7Io) and [Igor Kroitor's Github Page](https://github.com/kroitor/gjk.c) are **must-see-reference**.
 
@@ -37,7 +37,7 @@ The 'detail' process (to know the **WHY and Real Details**, refer to the referen
    4. If origin is found, there is collision.
    5. If not, there isn't. Continue to Support function by providing a direction vector toward origin then Loop again.
    
-## [Spatial Partition](/ExperiencesProgramming/Math/SpatialPartition.cpp)
+## [Spatial Partition](/Experiences/Programming/Math/SpatialPartition.cpp)
 
 [Game Programming Pattern - by Robert Nystrom](https://gameprogrammingpatterns.com/spatial-partition.html) 
 
