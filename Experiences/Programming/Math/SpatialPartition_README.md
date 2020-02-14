@@ -1,4 +1,4 @@
-# -> [Spatial Partition](/FunProjects/SpatialPartition.cpp) <-
+# -> [Spatial Partition](/Experiences/Programming/Math/SpatialPartition.cpp) <-
 
 [Game Programming Pattern - by Robert Nystrom](https://gameprogrammingpatterns.com/spatial-partition.html) 
 
@@ -6,7 +6,7 @@ After reading the Spatial Partition Chapter, thought it would be fun to implemen
 
 **Note: In my Top-down 2-Players Shooter game, it is kinda unnecessary (drag down the performance/efficiency) as there aren't much objects in the game. So the trade-off isn't worth it in my game. Ultimately, it is just a platform for me to learn more about spatial partition**
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/FunProjects/Image/SpatialPartition.jpg?raw=true" />
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/Math/Image/SpatialPartition.jpg?raw=true" />
 
 The idea is simple. It segments the game world/space into 10 x 10 cells and add/put/move objects from/to one another. 
 
