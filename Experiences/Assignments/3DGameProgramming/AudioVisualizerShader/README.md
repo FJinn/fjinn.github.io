@@ -1,4 +1,4 @@
-# -> [Audio Visualizer Using Shader](/Assignments/3DGameProgramming/AudioVisualizerShader/fragmentShader1.frag) <-
+# -> [Audio Visualizer Using Shader](/Experiences/Assignments/3DGameProgramming/AudioVisualizerShader/fragmentShader1.frag) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/3DGameProgramming/Images/AudioVisualizerUsingShader.gif?raw=true" width="800" height="450" />
 
