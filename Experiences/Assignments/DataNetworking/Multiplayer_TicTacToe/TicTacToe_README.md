@@ -1,6 +1,6 @@
-# -> [Tic Tac Toe With Photon](/Assignments/DataNetworking/Multiplayer_TicTacToe/TicTacToe.cpp) <-
+# -> [Tic Tac Toe With Photon](/Experiences/Assignments/DataNetworking/Multiplayer_TicTacToe/TicTacToe.cpp) <-
 
-<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/DataNetworking/Image/TicTacToe.gif?raw=true"/>
+<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Experiences/Assignments/DataNetworking/Image/TicTacToe.gif?raw=true"/>
 
 A simple Tic Tac Toe game is made with the intention for me to practice and learn about networking in game.
 
