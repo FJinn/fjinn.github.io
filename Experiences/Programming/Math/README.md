@@ -1,5 +1,3 @@
-# [Keeping Track Of What I learnt](https://github.com/FJinn/fjinn.github.io/tree/master/FunProjects)
-
 ## [Bezier Curve](/Experiences/Programming/Math/BezierCurve.h)
 Put it in a simple way, it is a (curve) line from Point A to Point B, in 0-1 time, with a control point.
 
