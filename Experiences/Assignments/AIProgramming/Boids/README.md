@@ -1,6 +1,6 @@
 # [Boid Simulation](/Experiences/Assignments/AIProgramming/Boids/Boids.h)
 
-<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/BoidSimulation.gif?raw=true" width="800" height="450" />
+<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Experiences/Assignments/AIProgramming/Images/BoidSimulation.gif?raw=true" width="800" height="450" />
 
 The idea is to use Physics such as acceleration, velocity, and position to control boids behaviour in order to move the boids in a smooth and relatively nature way.
 
