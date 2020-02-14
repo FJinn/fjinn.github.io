@@ -1,6 +1,6 @@
-# -> [Bezier Curve](/FunProjects/BezierCurve.h) <-
+# -> [Bezier Curve](/Experiences/Programming/Math/BezierCurve.h) <-
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/FunProjects/Image/BezierCurve.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/Math/Image/BezierCurve.jpg?raw=true"/>
 
 Put it in a simple way, it is a (curve) line from Point A (Green) to Point B (Yellow), in 0-1 time, with a control point(Point where both line are connected).
 
