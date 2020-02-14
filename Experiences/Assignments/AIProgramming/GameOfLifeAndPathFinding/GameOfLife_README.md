@@ -1,6 +1,6 @@
 # [Game Of Life](/Experiences/Assignments/AIProgramming/GameOfLifeAndPathFinding/GameOfLife.h)
 
-<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Assignments/AIProgramming/Images/GameOfLife.gif?raw=true" width="800" height="450" />
+<img src="https://github.com/FJinn/fjinn.github.io/blob/master/Experiences/Assignments/AIProgramming/Images/GameOfLife.gif?raw=true" width="800" height="450" />
 
 **Play/Pause** : Play or stop the simulation.
 
