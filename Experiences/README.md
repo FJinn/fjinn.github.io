@@ -1,11 +1,6 @@
-# [Place for FUN](https://github.com/FJinn/fjinn.github.io/tree/master/FunProjects)
+# [Keeping Track Of What I learnt](https://github.com/FJinn/fjinn.github.io/tree/master/FunProjects)
 
-Here will not allow full project folder, but just one or two files(.h/.cpp) from project ~~or something else~~ :thinking:
-
-## How it started
-**Begin with article/book reading -> Google/Youtube for further learning/understanding -> Implementation -> HERE :smiley:**
-
-## [Bezier Curve](/FunProjects/BezierCurve.h)
+## [Bezier Curve](/Experiences/BezierCurve.h)
 Put it in a simple way, it is a (curve) line from Point A to Point B, in 0-1 time, with a control point.
 
 A point's position in a Bezier Curve line is based on the position of a point in three lines at the time(t).
@@ -22,7 +17,7 @@ Example of how the curve is formed:
 _
 
 
-## [GJK Algorithm](/FunProjects/GJKAlgorithm.cpp)
+## [GJK Algorithm](/Experiences/GJKAlgorithm.cpp)
 
 [Casey Muratori's tutorial](https://youtu.be/Qupqu1xe7Io) and [Igor Kroitor's Github Page](https://github.com/kroitor/gjk.c) are **must-see-reference**.
 
@@ -44,7 +39,7 @@ The 'detail' process (to know the **WHY and Real Details**, refer to the referen
    4. If origin is found, there is collision.
    5. If not, there isn't. Continue to Support function by providing a direction vector toward origin then Loop again.
    
-## [Spatial Partition](/FunProjects/SpatialPartition.cpp)
+## [Spatial Partition](/Experiences/SpatialPartition.cpp)
 
 [Game Programming Pattern - by Robert Nystrom](https://gameprogrammingpatterns.com/spatial-partition.html) 
 
