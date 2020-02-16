@@ -63,3 +63,5 @@ Of course, an arrow indicator can be added and color can be used to differentiat
 ### Conclusion
 This may or may not bother players but personally, I do think that keeping user experience in mind while designing the quest system (in terms of User Interface/Interaction) will provide a better and smoother gameplay experiences to players like me.
 
+P.s. May chip in more on this topic if I have time (to include other game as references) or the idea light bulb just decides to pop up from my head.
+
