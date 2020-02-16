@@ -52,7 +52,7 @@ Surface area is the most conrete layer with images or text or somthing that is i
 
 ---
 
-#### Five Elements
+#### The Order Of Five Elements
 
 Each element is a plane lying on top of the other. The top is the most concrete and bottom is the most abstract.
 Each plane is also dependent on the one below it and if the planes don't align, they will not provide a satisfying experience and games are all about experience.
