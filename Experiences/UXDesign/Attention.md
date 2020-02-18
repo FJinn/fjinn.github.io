@@ -35,7 +35,7 @@ With the same example, but in this case, add in different colors dot and squares
 Posner (1980) stated that we focus on a particular spatial location to enhance our processing stimuli over the entire perceived visual world. That means when we're searching for Wally (a puzzle picture to spot a character), our eyes only focus on one point or a space (like spotlight area) intead of the whole picture at a time. 
 
 ### Multitasking
-Multitasking is a myth as most of us are really just only doing one thing at a time. In other words, we are actually focusing on one task at a time. Daniel Levitin gaves some interesting information about it in the video: (The Organized Mind: Thinking Straight in an Age of Information Overload)[https://www.youtube.com/watch?v=aR1TNEHRY-U]
+Multitasking is a myth as most of us are really just only doing one thing at a time. In other words, we are actually focusing on one task at a time. Daniel Levitin gaves some interesting information about it in the video: [The Organized Mind: Thinking Straight in an Age of Information Overload](https://www.youtube.com/watch?v=aR1TNEHRY-U)
 
 ### Dual Task Study
 When we do two tasks together, both performances will degrade compared to when we do it alone.
