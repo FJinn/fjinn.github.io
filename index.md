@@ -8,16 +8,40 @@
 <!--ts-->
    * [LinkedIn](#my-portfolio-page)
    * [Table of Contents](#table-of-contents)
-   * [Side Project/Work -> Something I Have Fun With :smiley:](#side-project)
+   * [Mathematics In Programming](#mathematics-in-programming)
+     * Bezier Curve
+     * GJK Algorithm
+     * Spatial Partition
    * [AI Programming ](#ai-programming)
+     * Game Of Life
+     * Path Finding
+     * Boid Simulation
    * [Graphic Programming](#graphic-programming)
+     * Pokemon in Wireframe
+     * Audio Visualizer
    * [3D Game Programming](#3d-game-programming)
+     * Audio Visualizer With Shader
+     * Bloom Effect
    * [Game Engine Architecture and Design](#game-engine-architecture-and-design)
+     * Particle System
    * [Data Communication and Networking](#data-communication-and-networking)
+     * Tic Tac Toe
    * [Games I Have Developed (Solo/Team)](#my-games)
+     * Mechamancers
+     * Revenge Of Witch
+     * Nasty Samurai Wrangler
+     * ALIVE
+     * Wandering Soot
+     * Its a Mad, Mad Crystal Gold
+     * Ethan Fry : Galactic Pirate Chef
+     * The Day Of The Bomb Mission
+     * Parastick
+     * Fated Death
+     * Z
+     * My Phone Made This
 <!--te-->
 
-## Side Project
+## Mathematics In Programming
 
 ### -> [Bezier Curve](/Experiences/Programming/Math/BezierCurve_README.md) <-
 
