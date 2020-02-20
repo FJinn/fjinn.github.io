@@ -10,6 +10,13 @@
 <!--ts-->
    * [LinkedIn](#my-portfolio-page)
    * [Table of Contents](#table-of-contents)
+   * [UX Design](#ux-design)
+     * Quest System
+     * Five Elements in UX Design
+     * Neuroscience and UX
+     * Perception
+     * Attention
+     * Memory
    * [Mathematics In Programming](#mathematics-in-programming)
      * Bezier Curve
      * GJK Algorithm
@@ -42,6 +49,26 @@
      * Z
      * My Phone Made This
 <!--te-->
+
+## UX Design
+
+### -> [Quest System](/Experiences/UXDesign/QuestSystem.md) <-
+My thoughts on the quest system of RPG games that have open world setting.
+
+### -> [Five Elements in UX Design](/Experiences/UXDesign/FiveElementsInUXDesign.md) <-
+After watching [Using the Five Elements of User Experience in Game Design](https://www.youtube.com/watch?v=wZf2hjaj4kg) video, I decided to take note from it.
+
+### -> [Neuroscience and User Experience](/Experiences/UXDesign/NeuroscienceAndUX.md) <-
+Another interesting video about Ux Design: [The Gamer's Brain: How Neuroscience and UX Can Impact Design](https://www.youtube.com/watch?v=XIpDLa585ao).
+
+### -> [Perception](/Experiences/UXDesign/Perception.md) <-
+After some videos about User Experience, I decided to pick up the related topics again, from my dusty Psychology notes. :smile:
+
+### -> [Attention](/Experiences/UXDesign/Attention.md) <-
+Notes about individuals' attention.
+
+### -> [Memory](/Experiences/UXDesign/Memory.md) <-
+Some interesting theories about our memory.
 
 ## Mathematics In Programming
 
@@ -182,7 +209,9 @@ My friends and I always want to try out something new and Game Jam serves as a p
 <img src="GameProjects/Images/SEAGameJam01.jpg?raw=true"/> <img src="GameProjects/Images/SEAGameJam02.jpg?raw=true"/>
 <img src="GameProjects/Images/SEAGameJam03.jpg?raw=true"/> <img src="GameProjects/Images/SEAGameJam04.jpg?raw=true"/>
 
+### -> [Virtual Donkey (Archived)](/Experiences/Archives/VirtualDonkey.md) <-
 
+Wrote a incomplete design document in Global Game Jam 2020. Unfortunately, my team and I had to quit the jam halfway due to various reasons.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
