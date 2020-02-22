@@ -36,7 +36,7 @@ Intuitively, my friends and I will press the `Left Mouse Button` to use the `Too
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/UXDesign/Images/ConsistencyInControl/GTFO_InGameToolUI.jpg?raw=true"/>
 
-Shreenshot of `Mine Deployer` with UI text probing players to press 'E' key to deploy trip mine.
+Screenshot of `Mine Deployer` with UI text probing players to press 'E' key to deploy trip mine.
 
 It makes sense that the action of interacting with an item (In this case, deploying the sentry or mine) is binded to the 'official' interact key `E`. However, these are the reasons why we intuitively press the `Left Mouse Button` to activate the tool.
 
