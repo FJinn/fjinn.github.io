@@ -24,6 +24,8 @@ Just like any other First Person Shooter game, the control scheme for PC is `Lef
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/UXDesign/Images/ConsistencyInControl/GTFO_InGameLadderUI.jpg?raw=true"/>
 
+Screenshot of GTFO's game where UI text probing players to press `E` key for interaction.
+
 ## The Unexpected Bit
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/UXDesign/Images/ConsistencyInControl/GTFO_WeaponsMenu.jpg?raw=true"/>
