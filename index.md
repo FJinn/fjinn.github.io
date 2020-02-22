@@ -12,6 +12,7 @@
    * [Table of Contents](#table-of-contents)
    * [UX Design](#ux-design)
      * Quest System
+     * Consistency In Control
      * Five Elements in UX Design
      * Neuroscience and UX
      * Perception
@@ -54,6 +55,9 @@
 
 ### -> [Quest System](/Experiences/UXDesign/QuestSystem.md) <-
 My thoughts on the quest system of RPG games that have open world setting.
+
+### ->[Consistency In Control](/Experiences/UXDesign/ConsistencyInControl.md) <-
+Topic that generated from a First Person Shooter game I played.
 
 ### -> [Five Elements in UX Design](/Experiences/UXDesign/FiveElementsInUXDesign.md) <-
 After watching [Using the Five Elements of User Experience in Game Design](https://www.youtube.com/watch?v=wZf2hjaj4kg) video, I decided to take note from it.
