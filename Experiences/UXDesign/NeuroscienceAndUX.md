@@ -17,7 +17,7 @@ Applications (Example): Use Gestalt laws, Form Follows Functions
 
 Our brain processes input with sensation, perception, and cognition.
 
-###### How It Works
+##### How It Works
 
 Sensation : Physics -> orientation, spatial frequency, brightness etc
 
@@ -25,13 +25,13 @@ Perception : Organization of the visual field -> the brain likes meaningful patt
 
 Cognition : Knowledge -> access to semantics
 
-###### Perception Is Subjective
+##### Perception Is Subjective
 
 Generally, it works as a top down process, starts from Cognition, to Perception, and ends with Sensation. Meaning our brain tends to use existing knowledge to determine how it is going to deal with the information. In other words, we are more likely to depend on our knowledge when we see or experience something new to us.
 
 A philosophical way to put it: We don't see the thing as it is but as what we believe it is.
 
-###### Applications
+##### Applications
 
 Gestalt Theory : Law of proximity, Law of Similarity
 

@@ -4,15 +4,15 @@ After watching the video, [The Gamer's Brain: How Neuroscience and UX Can Impact
 ### Perceptual Invariants
 Perceptual invariants is the unchanging aspects of the environment from the observer's viewpoint. Generally, we use it to interpret the size or distance of objects around us.
 
-##### Texture gradient
+#### Texture gradient
 > Texture gradient is the distortion in size which closer objects have compared to objects farther away. It also involves groups of objects appearing denser as they move farther away... There are three main forms of texture gradient: density, perspective, and distortion of texture elements. [Wiki page](https://en.wikipedia.org/wiki/Texture_gradient)
 
-##### The role of light in perception - J.J. Gibson
+#### The role of light in perception - J.J. Gibson
 A real world scenario which utilize the texture gradient:
 Pilots land planes better with the richness of the cues (light) in the environment as on pilot ability.
 The structure in the light or 'optic array' seems to be as important which is why landing strips are so well lit.
 
-##### Richness of environment
+#### Richness of environment
 Speed control on roads works by changing the structure of the perceived world (sensory input), not by appealing to internal perceptual or cognitive processes (decision processes) with a 'reduce speed' sign.
 This can be seen with the gap of the lines becomes closer to each other as they near to roundabout. It is designed for the drivers to reduce speed by having them notice the 'increase' in speed through the perception of the lines' gap.
 

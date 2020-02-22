@@ -21,12 +21,12 @@ Questions such as why do we want to play this game may need to be solved here. I
 
 Scope defines the functional requirements and content requirements of a game.
 
-##### Functional Requirements
+#### Functional Requirements
 - How features work with each other
 - How the features relationship is used to reach the final goal
 - In gaming, the goal is the functional requirement dictating how elements interrelate and setting up a potential final outcome
 
-##### Content Requirements
+#### Content Requirements
 - Information we need to gather the value
 - It is similar to the concept of game flow which provides us the sense of the game size
 - It helps us to determine how big or small is the game and the time required to finish the project
