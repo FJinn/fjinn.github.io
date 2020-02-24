@@ -63,7 +63,7 @@ Topic that generated from a First Person Shooter game I played.
 ### -> [Five Elements in UX Design](/Experiences/UXDesign/FiveElementsInUXDesign.md) <-
 After watching [Using the Five Elements of User Experience in Game Design](https://www.youtube.com/watch?v=wZf2hjaj4kg) video, I decided to take note from it.
 
-### -> [Dark Patterns In Games](/Experiences/UXDesign/DarkPatternsInGame.md) <-
+### -> [Dark Patterns In Games](/Experiences/UXDesign/DarkPatternsInGames.md) <-
 A UX Designer, Anisa Sanusi gave a talk about [dark patterns in games](https://www.youtube.com/watch?v=BYzwoqezAjU) in GDC 2017.
 
 ### -> [Neuroscience and User Experience](/Experiences/UXDesign/NeuroscienceAndUX.md) <-
