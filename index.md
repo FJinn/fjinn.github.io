@@ -88,7 +88,7 @@ Some interesting theories about our memory.
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/Math/Image/GJK05.jpg?raw=true" width="650" height="450" />
 
-### -> [Spatial Partition](/FunProjects/SpatialPartition_README.md) <-
+### -> [Spatial Partition](/Experiences/Programming/Math/SpatialPartition_README.md) <-
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/Math/Image/SpatialPartition.jpg?raw=true" width="650" height="450" />
 
@@ -100,11 +100,11 @@ Some interesting theories about our memory.
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Experiences/Assignments/AIProgramming/Images/GameOfLife.gif?raw=true" width="800" height="450" width="800" height="450" />
 
-### -> [Path Finding](/ExperiencesAssignments/AIProgramming/GameOfLifeAndPathFinding/PathFinding_README.md) <-
+### -> [Path Finding](/Experiences/Assignments/AIProgramming/GameOfLifeAndPathFinding/PathFinding_README.md) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Experiences/Assignments/AIProgramming/Images/PathFinding.gif?raw=true" width="800" height="450" width="800" height="450" />
 
-### -> [Boid Simulation](/ExperiencesAssignments/AIProgramming/Boids/README.md) <-
+### -> [Boid Simulation](/Experiences/Assignments/AIProgramming/Boids/README.md) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Experiences/Assignments/AIProgramming/Images/BoidSimulation.gif?raw=true" width="800" height="450" width="800" height="450" />
 
@@ -124,11 +124,11 @@ Some interesting theories about our memory.
 
 ## 3D Game Programming
 
-### -> [Audio Visualizer With Shader](/ExperiencesAssignments/3DGameProgramming/AudioVisualizerShader/README.md) <-
+### -> [Audio Visualizer With Shader](/Experiences/Assignments/3DGameProgramming/AudioVisualizerShader/README.md) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Experiences/Assignments/3DGameProgramming/Images/AudioVisualizerUsingShader.gif?raw=true" width="800" height="450" />
 
-### -> [Bloom Effect](/ExperiencesAssignments/3DGameProgramming/BloomEffect/README.md) <-
+### -> [Bloom Effect](/Experiences/Assignments/3DGameProgramming/BloomEffect/README.md) <-
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Experiences/Assignments/3DGameProgramming/Images/BloomEffect.gif?raw=true" width="800" height="450" />
 
