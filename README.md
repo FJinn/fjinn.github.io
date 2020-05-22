@@ -17,12 +17,6 @@ This repository is mainly for my portfolio.
 
 ___
 
-**Extra: Drew this when I was free long time ago.**
-
-<img src="images/Sketch01.jpg?raw=true"/>
-
-___
-
 
 
 
