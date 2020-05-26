@@ -210,10 +210,10 @@ In fact, only 3 of them are from my university Programming/C++.
 
 My friends and I always want to try out something new and Game Jam serves as a platform for us to play around.
 
-### -> [Mechamancers](Experiences/Programming/C++/FundamentalOfGameDesign/Mechamancers/README.md) <-
+### -> [Mechamancers](Experiences/Design/FundamentalOfGameDesign/Mechamancers/README.md) <-
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/C++/FundamentalOfGameDesign/Images/cover.jpg?raw=true" width="354" height="216" /> <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/C++/FundamentalOfGameDesign/Images/MM01.jpg?raw=true" width="354" height="216" />
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/C++/FundamentalOfGameDesign/Images/MM02.jpg?raw=true" width="354" height="216" />
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/FundamentalOfGameDesign/Images/cover.jpg?raw=true" width="354" height="216" /> <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/FundamentalOfGameDesign/Images/MM01.jpg?raw=true" width="354" height="216" />
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/FundamentalOfGameDesign/Images/MM02.jpg?raw=true" width="354" height="216" />
 
 ### -> [Revenge Of Witch](GameProjects/RevengeOfWitch_README.md) <-
 
