@@ -271,7 +271,7 @@ My friends and I always want to try out something new and Game Jam serves as a p
 
 ### -> [Adzin](GameProjects/Adzin_README.md) <-
 
-<img src="GameProjects/Images/Adzin01.jpg?raw=true"/> <img src="GameProjects/Images/Adzin02.jpg?raw=true"/>
+<img src="GameProjects/Images/Adzin01.png?raw=true"/> <img src="GameProjects/Images/Adzin02.png?raw=true"/>
 
 ### -> [Virtual Donkey (Archived)](/Experiences/Archives/VirtualDonkey.md) <-
 
