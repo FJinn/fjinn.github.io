@@ -1,0 +1,1 @@
+Some fun exercises from [Google Education Python](https://developers.google.com/edu/python).
