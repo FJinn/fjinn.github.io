@@ -120,7 +120,7 @@ Recreated a similar Bastion [Progressive Effect](https://www.youtube.com/watch?v
 ---
 
 ## [Progressive Effect](/Experiences/Programming/Unreal/ProgressiveEffect/README.md)
-Recreated a similar Bastion [Progressive Effect](https://www.youtube.com/watch?v=SSt2ypkAXeM) from a tutorial video with Unreal Material Graph.
+Recreated a similar Bastion Progressive Effect from a [tutorial video](https://www.youtube.com/watch?v=SSt2ypkAXeM) with Unreal Material Graph.
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Experiences/Programming/Unreal/ProgressiveEffect/ProgressiveEffect.gif?raw=true" width="800" height="450" width="800" height="450" />
 
