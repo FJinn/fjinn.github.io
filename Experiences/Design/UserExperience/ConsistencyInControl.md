@@ -14,7 +14,7 @@ There are 4 type of weapons in GTFO:
 
 - `Tool`
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/UXDesign/Images/ConsistencyInControl/GTFO_LobbyWeaponsMenu.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/Images/ConsistencyInControl/GTFO_LobbyWeaponsMenu.jpg?raw=true"/>
 
 Screenshot of GTFO's game lobby where players choose their weapons.
 
@@ -22,19 +22,19 @@ Screenshot of GTFO's game lobby where players choose their weapons.
 
 Just like any other First Person Shooter game, the control scheme for PC is `Left Mouse Button` for `Fire` and `E` key for interaction.
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/UXDesign/Images/ConsistencyInControl/GTFO_InGameLadderUI.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/Images/ConsistencyInControl/GTFO_InGameLadderUI.jpg?raw=true"/>
 
 Screenshot of GTFO's game where UI text probing players to press `E` key for interaction.
 
 ## The Unexpected Bit
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/UXDesign/Images/ConsistencyInControl/GTFO_WeaponsMenu.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/Images/ConsistencyInControl/GTFO_WeaponsMenu.jpg?raw=true"/>
 
 As the screenshot showed, the `Tool` weapons such as `Shotgun Sentry` and `Burst Sentry` shares some similar appearance features with both `Main Weapon` and `Special Weapon`
 
 Intuitively, my friends and I will press the `Left Mouse Button` to use the `Tool` weapon. However, the gun-like `Tool` (`Shotgun Sentry` and `Burst Sentry`) is binded to `E` key for deploy purpose.
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/UXDesign/Images/ConsistencyInControl/GTFO_InGameToolUI.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/Images/ConsistencyInControl/GTFO_InGameToolUI.jpg?raw=true"/>
 
 Screenshot of `Mine Deployer` with UI text probing players to press 'E' key to deploy trip mine.
 
@@ -43,7 +43,7 @@ It makes sense that the action of interacting with an item (In this case, deploy
 - In the game, like showed in above screenshot, the `Tool` looks very similar to a weapon where it supposes to fire out a projectile.
 
 - When players start a match, they have to pre-select one of each weapons type which creates a sense of a category. In other words, since they are all 'weapons', they should be having similar functionality (in fact, they are) that helps players to survive. That mindset leads to the idea of all of them should be sharing the same control scheme too. 
-  - This is an example of [how our knowledge can influence our perception.](/Experiences/UXDesign/NeuroscienceAndUX.md)
+  - This is an example of [how our knowledge can influence our perception.](/Experiences/Design/UserExperience/NeuroscienceAndUX.md)
   - In GTFO scenario, one can easily adept to this little counter-intuitive issue as we learn after multiple playthroughs (rehearsal: bringing a knowledge from working memory to long term memory)
 
 ## ~~Solution~~ Discussion
