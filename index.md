@@ -109,7 +109,7 @@ Some interesting theories about our memory.
 ## Python In Unreal Editor
 
 ### [Spawning Multiple Actors on A Sphere](/Experiences/Programming/Python/Unreal/SpawnActors/README.md)
-Recreated a similar Bastion [Progressive Effect](https://www.youtube.com/watch?v=SSt2ypkAXeM) from a tutorial video with Unreal Material Graph.
+Learned and tried out how Python integrates into Unreal Editor.
 
 <img src="https://github.com/FJinn/fjinn.github.io/blob/master/Experiences/Programming/Python/Unreal/SpawnActors/SpawnActors01.png?raw=true" width="800" height="450" width="800" height="450" />
 
