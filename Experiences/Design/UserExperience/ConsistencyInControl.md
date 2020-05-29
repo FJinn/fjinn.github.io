@@ -56,9 +56,9 @@ Since it does not affect the gameplay experience, does a developer need to take 
 
 There is no guarantee that the game we're making will turn out to be what we've expected in terms of the sales or gameplay experience. We only can do our best to develop a game that is able to provide the best experience to the players.
 
-But, does it really matter?
+**But, does it really matter?**
 
-**Yes and No. It depends.**
+Yes and No. It depends.
 
 Personally, I think it will be best to take care of the issue when we're in the development process. However, in GTFO, it doesn't really matter as this particular issue isn't a big contributor to the game experience that players expect.
 
@@ -76,7 +76,7 @@ Create different category for different type of weapons. This does not mean it h
 
 This doesn't feel right for GTFO.
 
-**As I meantioned, it varies for different games.**
+**As I mentioned, it varies for different games.**
 
 In GTFO, the 'uncomfortable' bit may disappear as soon as players finish their first playthrough. Players do not need to remember tons of information in the game as it provides guide through UI text most of the time. In other words, no memory overload happens in GTFO.
 
