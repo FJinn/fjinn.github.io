@@ -17,6 +17,14 @@
    * [LinkedIn](#my-portfolio-page)
    * [Table of Contents](#table-of-contents)
    * [Design](#design)
+     * [Game Narrative](#game-narrative)
+       * Premise
+       * Mood
+       * Structure
+       * Scene
+       * Dialogue
+       * Theme
+       * Narrative Guide
      * [Game World Creation](#game-world-creation)
        * Research On SS15
        * World Environment
@@ -83,7 +91,25 @@
 ---
 ---
 
-## Game World Creation <-
+## Game Narrative
+
+### -> [Premise](/Experiences/Design/GameNarrative/Premise.md) <-
+
+### -> [Mood](/Experiences/Design/GameNarrative/Mood.md) <-
+
+### -> [Structure](/Experiences/Design/GameNarrative/Structure.md) <-
+
+### -> [Scene](/Experiences/Design/GameNarrative/Scene.md) <-
+
+### -> [Dialogue](/Experiences/Design/GameNarrative/Dialogue.md) <-
+
+### -> [Theme](/Experiences/Design/GameNarrative/Theme.md) <-
+
+### -> [Narrative Guide](/Experiences/Design/GameNarrative/NarrativeGuide.md) <-
+
+---
+
+## Game World Creation
 
 ### -> [Research On SS15](/Experiences/Design/GameWorldCreation/ResearchAboutSS15.md) <-
 
