@@ -16,26 +16,26 @@ Action, Adventure, Fantasy
 
 ### Magic/Spell
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Magic01.png?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Magic01.png?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Magic02.png?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Magic02.png?raw=true" width="600" height="450" >
 
 - It is a world that has magic. However, not every living thing can cast magic. Latest by age 10, if a child still cannot cast a spell, he/she is a muggle, a regular human with no magic/spell potential.
 
 ### Elf
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Elf01.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Elf01.jpg?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Elf02.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Elf02.jpg?raw=true" width="600" height="450" >
 
 - Elf lives in nature such as forest, mountain, and some even live underwater.
 - Elf have different appearance based on their habitat. However, they have one physical appearance feature in common, which is their sharp and long ear.
 
 ### Darkness Monster/ Outsider
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/DarknessMonster01.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/DarknessMonster01.jpg?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/DarknessMonster02.jpeg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/DarknessMonster02.jpeg?raw=true" width="600" height="450" >
 
 - Came from the outside of the world
 - Does not have intelligence, cannot communicate. The only thing they do is kill and eat other living things.
@@ -61,17 +61,17 @@ Living things strive to survive and defeat the darkness monsters (Outsider) whil
 
 #### City Plan & Environment
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Temple.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Temple.jpg?raw=true" />
 
 A religious town which the populace lifestyle and all the buildings centred around a temple with unique architecture. The temple has unique architecture in comparison to the environment such as other buildings and is visually isolated. There are 4 roads which lead to other places such as river and other cities.
 
 #### Populace
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Abbot.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Abbot.jpg?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Children02.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Children02.jpg?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/ReligiousPeople.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/ReligiousPeople.jpg?raw=true" width="600" height="450" >
 
 There is only one species living in this town, human. Majority of passers-by and tourists are also human. They mostly wear simple clothing such as robes. The religion unites and achieves peace among different races.
 
@@ -79,27 +79,27 @@ There is only one species living in this town, human. Majority of passers-by and
 
 ##### Merchant
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Merchant.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Merchant.jpg?raw=true" />
 
 Merchant is one of the social forces in this religious town. Merchant trades things from visitors and residents and this avoids the village from a closed economy. In other words, a merchant is a bridge to link the residents and the outside world.
 
 ##### Abbot/Monks (Leader of the town)
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Abbot.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Abbot.jpg?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/MonkWarrior01.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/MonkWarrior01.jpg?raw=true" width="600" height="450" >
 
 Monks can be categorized into two: scholar and guardian. Scholar monks are those who teach others about knowledge, magic and beliefs; while guardian monks are responsible to keep the temple and people safe.
 
 ##### Prayers
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Prayers02.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Prayer02.jpg?raw=true" />
 
 In a religious town, prayer is one of the social forces. Prayer (residents/visitors), who have faith in this religion, often pay visits to the temple. Donations may be made in those visits. The donated money or food is used to sustain the temple and monks daily basic needs.
 
 ##### Children
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Children01.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Children01.jpg?raw=true" />
 
 The fifth social force will be children. The temple provides a space and serves as a school for them. The populace will send their children to temple in the morning to learn about knowledge and teaching, and pick them up at sunset.
 
@@ -111,21 +111,21 @@ The fifth social force will be children. The temple provides a space and serves 
 
 #### City Plan & Environment
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/HangingTemple01.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/HangingTemple01.jpg?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/MountainCliff.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/MountainCliff.jpg?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Mountain.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Mountain.jpg?raw=true" width="600" height="450" >
 
 An area of mountain with cliffs. With fertile soil and fresher air (high altitude), it provides a good environment for some populace to live. The ancient populace who lived there even built the building(temple) into the cliff. Due to the risk, current populace no longer lives at the cliff but somewhere near (on flat ground). Going up (left) is heading to the cliff (temple) while right is heading to lower ground, lake, and forest. It is more like a tribe than a city/town, which means the populace live together in a relatively tighter and smaller space.
 
 #### Populace
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/PeruvianWoman.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/PeruvianWoman.jpg?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/PeruvianGirl.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/PeruvianGirl.jpg?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/PeruKids.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/PeruKids.jpg?raw=true" width="600" height="450" >
 
 - Have darker skin, about 20 % more blood, a larger, stronger heart and lungs, and they are almost immune to frostbite.
 - Most of them do not know magic but are well-trained in physical strength/martial arts to defend themselves against hostile.
@@ -138,7 +138,7 @@ Mountain people share one belief and religion, which is: God of Mountain. They b
 
 #### Arts and language
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Cloud.png?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Cloud.png?raw=true" />
 
 - Most of their arts (picture on clothes, tents, drawing etc.) are referred from their surroundings. For example, clouds, mountains, forest, animals, people, flowers etc.
 - They only speak one language and although it sounds completely different, it is developed from the common language of lowlanders.
@@ -149,7 +149,7 @@ As the temperature on the mountain is too cold, mountain people harvest wool fro
 
 #### Customs and traditions
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Bonfire.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Bonfire.jpg?raw=true" />
 
  - In normal days, mountain people sleep quite early as it is pretty dark at night. Every last day of the month, mountain people will stay up late as they all gather around and celebrate their hard work for the entire month. It also serves as the day for electing a new chief at the last month of a year.
 
@@ -161,11 +161,11 @@ As the temperature on the mountain is too cold, mountain people harvest wool fro
 
 #### City Plan & Environment
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Vernazza01.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Vernazza01.jpg?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Vernazza02.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Vernazza02.jpg?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Sea.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Sea.jpg?raw=true" width="600" height="450" >
 
 - Due to its environment, The Ark is a self-sustaining seaside village containing of rare resources (plants and animals).
 - As it is located at slope, when there is heavy rain, part of the mountain collapses and forms a sort of a dirt tsunami, sweeping up everything with the rush of flowing water, rocks and mud.
@@ -173,11 +173,11 @@ As the temperature on the mountain is too cold, mountain people harvest wool fro
 
 #### Populace
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/SeaPeople01.png?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/SeaPeople01.png?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/SeaPeople02.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/SeaPeople02.jpg?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/SeaPeople03.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/SeaPeople03.jpg?raw=true" width="600" height="450" >
 
 The populace in The Ark is comprised of 3 species, lizardman, dwarf, and human. Although they are different species, they are friendly to each other and able to tolerate each other’s culture/differences.
 

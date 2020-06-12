@@ -6,9 +6,9 @@ No matter what kind of a world we are creating, we always need references to bri
 
 ## Tall Buildings
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/TallBuilding01.JPG?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/TallBuilding01.JPG?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/TallBuilding02.JPG?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/TallBuilding02.JPG?raw=true" width="600" height="450" >
 
 These are one of the tall buildings in SS15. The height is the interesting part of the building as most of the buildings in SS15 are relatively low, averagely 2-3 floors height. In a game, players like to climb/go to the top of a mountain/building (Skyrim/GTA) as it gives the player a sense of achievement and the clear view of the ‘world’.
 

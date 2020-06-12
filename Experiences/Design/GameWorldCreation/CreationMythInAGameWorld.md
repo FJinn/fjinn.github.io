@@ -14,9 +14,9 @@
 
 ### Magic/Spell
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Magic01.png?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Magic01.png?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Magic02.png?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Magic02.png?raw=true" width="600" height="450" >
 
 - It is a world that has magic. Not every living thing can cast magic. Therefore, those who have magic are respected by others. It even forms a social status where spell/magic casters are on top of the pyramid. Normally, children with age 6 will be tested if they are able to cast spell/magic. Latest by age 10, if a child still cannot cast a spell, he/she is a muggle, a regular human with no magic/spell potential.
 - Magic/Spell casters do not chant. They cast a magic/spell by communicating (unspeakable language) and link with nature in their mind. The strength of the spell/magic depends on the communication and intensity of the link’s level.
@@ -30,11 +30,11 @@
 
 ### Elf
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Elf01.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Elf01.jpg?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Elf02.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Elf02.jpg?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Elf03.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Elf03.jpg?raw=true" width="600" height="450" >
 
 - There are other species other than human. One of them is elf. Some believe elfs are human while they believe they are part of nature.
 - Elf normally will not appear with the presence of human because they believe human does no belonged to nature.
@@ -44,9 +44,9 @@
 
 ### Darkness Monster
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/DarknessMonster01.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/DarknessMonster01.jpg?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/DarknessMonster02.jpeg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/DarknessMonster02.jpeg?raw=true" width="600" height="450" >
 
 - Came from the outside of the world.
 - Does not have intelligence, cannot communicate. The only thing they do is kill and eat other living things. Sometimes, they even consume their own kind if there are no other living things.

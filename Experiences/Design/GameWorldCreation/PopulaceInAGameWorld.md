@@ -15,6 +15,7 @@ With the reference from Peruvian, populace in a game world is created.([Source](
 ## Beliefs and religion
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/QuinoaPlant.jpg?raw=true"/>
+
 Quinoa plant
 
 - Mountain people share one belief and religion, which is: God of Mountain. They believe everything that happens to them is the making of Mountain God since their life is heavily relied on mountain. They normally eat food like corn (takes 9-10 months to mature at high altitudes), potatoes, seeds of quinoa plants, and yak. All of them require ‘mountain (ground/soil)’ to grow/live.
@@ -22,6 +23,7 @@ Quinoa plant
 ## Arts and language
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Cloud.png?raw=true"/>
+
 Cloud art
 
 - Since they spend most of their lifetime on the mountain, their knowledge/aesthetic value is limited. Therefore, most of their arts (picture on clothes, tents, drawing etc.) are referred from their surroundings. For example, clouds, mountains, forest, animals, people, flowers etc.
@@ -30,6 +32,7 @@ Cloud art
 ## Attire
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/PeruvianGirl.jpg?raw=true"/>
+
 Peruvian Girl
 
 - As the temperature on the mountain is too cold, mountain people harvest wool from shaggy coated yak. They usually wear 3-4 layers of the clothes made of yak wool. As the mountain people have art culture, they sew the patterns of clouds, flowers, mountains etc. on their attire.
@@ -37,6 +40,7 @@ Peruvian Girl
 ## Shared experiences
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Yak.jpg?raw=true"/>
+
 Yak
 
 - Yak is very important to all mountain people as it is their key to survival. Not only is the yak an all-terrain vehicle for hauling goods, but it also provides mountain people meat, wool, milk, cheese and butter. The mountain people also use the yak hides to make portable tents for the herdsmen, and they burn the yak dung for heating and cooking. Cheese and butter also serve as their tribute to the Mountain God.

@@ -101,7 +101,7 @@
 
 ### -> [Conflict In A Game World](/Experiences/Design/GameWorldCreation/ConflictInAGameWorld.md) <-
 
-### -> [Game World Economics](/Experiences/Design/GameWorldCreation/GameWorldEconomics.md) <-
+### -> [Game World Economics](/Experiences/Design/GameWorldCreation/GameWorldEconomic.md) <-
 
 ### -> [Game World Guide](/Experiences/Design/GameWorldCreation/WorldGuide.md) <-
 

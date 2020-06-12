@@ -8,9 +8,9 @@ The Vast Wilderness is a republican society. Representatives are elected from ea
 
 ### Lizardman
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Lizardman01.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Lizardman01.jpg?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Lizardman02.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Lizardman02.jpg?raw=true" width="600" height="450" >
 
 - Strongest and don’t need as much water to survive
 - Dig waterways, protect the people, miners
@@ -18,9 +18,9 @@ The Vast Wilderness is a republican society. Representatives are elected from ea
 
 ### Humans
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Human01.png?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Human01.png?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Human01.png?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Human02.png?raw=true" width="600" height="450" >
 
 - Farmers and Strategists
 - The main food supply for the settlement, which are mainly crops, cactus and desert livestocks such as cows and camels
@@ -28,9 +28,9 @@ The Vast Wilderness is a republican society. Representatives are elected from ea
 
 ### Dwarves
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Dwarf01.png?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Dwarf01.png?raw=true" width="600" height="450" >
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Dwarf01.png?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/Dwarf02.png?raw=true" width="600" height="450" >
 
 - Can make use of the Earth’s magic most efficiently
 - Craftsmen, Miners
@@ -56,7 +56,7 @@ Earth element armour (Very sturdy magical armour)
 
 ## City Layout
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/CityLayout.png?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameWorldCreation/Images/CityLayout.png?raw=true" width="600" height="450" >
 
 ---
 
