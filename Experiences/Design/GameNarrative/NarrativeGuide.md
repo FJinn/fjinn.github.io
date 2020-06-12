@@ -17,7 +17,7 @@ To escape from a Jigsaw fanatic’s test, an egocentric student needs to learn t
 
 #### Plaza Rakyat
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameNarrative/Images/plazz.jpg?raw=true" />
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameNarrative/Images/plaza.jpg?raw=true" />
 
 - An abandoned plaza in Pudu Road, central Kuala Lumpur.
 - A mixed-use skyscraper complex in Kuala Lumpur, Malaysia initiated during the 1990s. However, the project, which had already commenced construction, stalled due to the 1997 Asian financial crisis and remains abandoned as of 2019. ([Source](https://en.wikipedia.org/wiki/Plaza_Rakyat))
@@ -90,7 +90,7 @@ Abandoned underground car park as the background.
 
 ### Cassette Dictaphone
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameNarrative/Images/cassette.jpg?raw=true" />
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Design/GameNarrative/Images/cassette.png?raw=true" />
 
 Character has a Cassette Dictaphone near him, within his reach distance.
 
