@@ -5,7 +5,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   A quick learner and gamer full with passions.
   <br><br>
-  <a href="https://www.linkedin.com/in/fjinnphang/">More About ME in LinkedIn</a> 
+  
+  Github:
+    <a href="https://www.linkedin.com/in/fjinnphang/">More About ME in LinkedIn</a> 
   <br><br>
   
 theme: jekyll-theme-dinky
