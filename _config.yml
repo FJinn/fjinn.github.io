@@ -10,5 +10,6 @@ description: > # your text below (remove <br> elements if you don't need line br
 
 github:
   linkedIn: https://www.linkedin.com/in/fjinnphang/
+  portfolio: https://fjinn.github.io/
 theme: jekyll-theme-dinky
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
