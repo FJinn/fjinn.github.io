@@ -7,6 +7,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Do visit my LinkedIn for more about me. 
   <br><br>
-  
+
+github:
+  linkedIn: https://www.linkedin.com/in/fjinnphang/
 theme: jekyll-theme-dinky
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
