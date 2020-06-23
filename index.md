@@ -14,71 +14,21 @@
 <!--ts-->
    * [LinkedIn](#my-portfolio-page)
    * [Table of Contents](#table-of-contents)
+   * [Internship In Streamline](/Experiences/Programming/InternshipInStreamline.md)
    * [Design](#design)
      * [Game Narrative](#game-narrative)
-       * Premise
-       * Mood
-       * Structure
-       * Scene
-       * Dialogue
-       * Theme
-       * Narrative Guide
      * [Game World Creation](#game-world-creation)
-       * Research On SS15
-       * World Environment
-       * Culture Of SS15 Populace
-       * Populace In A Game World
-       * Social Forces In SS15
-       * Social Forces In A Game World
-       * Creation Myth In A Game World
-       * Conflict In A Game World
-       * Game World Economics
-       * Game World Guide
      * [UX Design](#ux-design)
-       * Quest System
-       * Consistency In Control
-       * Five Elements in UX Design
-       * Dark Patterns In Games
-       * Neuroscience and UX
-       * Perception
-       * Attention
-       * Memory
    * [Programming](#programming)
      * [Python In Unreal Editor](#python-in-unreal-editor)
-       * Spawning Multiple Actors on A Sphere
      * [Progressive Effect](#progressive-effect)
      * [Mathematics In Programming](#mathematics-in-programming)
-       * Bezier Curve
-       * GJK Algorithm
-       * Spatial Partition
      * [AI Programming ](#ai-programming)
-       * Game Of Life
-       * Path Finding
-       * Boid Simulation
      * [Graphic Programming](#graphic-programming)
-       * Pokemon in Wireframe
-       * Audio Visualizer
      * [3D Game Programming](#3d-game-programming)
-       * Audio Visualizer With Shader
-       * Bloom Effect
      * [Game Engine Architecture and Design](#game-engine-architecture-and-design)
-       * Particle System
      * [Data Communication and Networking](#data-communication-and-networking)
-       * Tic Tac Toe
    * [Games I Have Developed (Solo/Team)](#my-games)
-     * Mechamancers
-     * Revenge Of Witch
-     * Nasty Samurai Wrangler
-     * ALIVE
-     * Wandering Soot
-     * Its a Mad, Mad Crystal Gold
-     * Ethan Fry : Galactic Pirate Chef
-     * The Day Of The Bomb Mission
-     * Parastick
-     * Fated Death
-     * Z
-     * My Phone Made This
-     * Adzin
 <!--te-->
 
 ---
