@@ -1,7 +1,7 @@
 # My Portfolio Page
 **Check out my [LinkedIn](https://www.linkedin.com/in/fjinnphang/) for more!**
 
-**Click Words In [Blue Color](https://fjinn.github.io/) For More Information**
+**Click Words In [Red Color](https://fjinn.github.io/) For More Information**
 
 **Click my name ([Jinn](https://fjinn.github.io/)) on top left to return to home page**
 
