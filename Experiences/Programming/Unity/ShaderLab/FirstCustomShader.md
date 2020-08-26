@@ -8,9 +8,7 @@ To create above effect, I used 2 noise textures to randomize if the processing p
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/Unity/ShaderLab/GIF/Heart.gif?raw=true"/>
 
-Instead of animation or put one sprite on top of another, I combine both textures with a parameter. This created the above effect.
-
-[Code](/Experiences/Programming/Unity/ShaderLab/FirstShader)
+Instead of animation or put one sprite on top of another, I combine both textures with a parameter. This created the above effect. [Code](/Experiences/Programming/Unity/ShaderLab/FirstShader)
 
 Continuing on shader experiment, I wanted to create an aura effect, such as a customized shadow indicating character presence.
 
@@ -18,12 +16,12 @@ Continuing on shader experiment, I wanted to create an aura effect, such as a cu
 
 From the [Code](/Experiences/Programming/Unity/ShaderLab/FirstShader02), it shows that the created effect is kind of hardcoded. Therefore, I went online to do some googling which leads me to [this](https://gamedev.stackexchange.com/questions/152609/moving-texture-according-to-position-in-shader).
 
-And I learnt about **Grab Pass** and **ComputeGrabScreenPos** by creating the following effects.
+And I learnt about **Grab Pass** and **ComputeGrabScreenPos** by creating the following effects. [Code](/Experiences/Programming/Unity/ShaderLab/FirstShader03)
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/Unity/ShaderLab/GIF/Shadow02.gif?raw=true"/>
 
-"X-Ray" using **ComputeGrabScreenPos**
+"X-Ray" using **ComputeGrabScreenPos** and **tex2Dproj**
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/Unity/ShaderLab/GIF/Background01.gif?raw=true"/>
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/Unity/ShaderLab/GIF/ShadowParticle01.gif?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/Unity/ShaderLab/GIF/BackgroundParticle01.gif?raw=true"/>
