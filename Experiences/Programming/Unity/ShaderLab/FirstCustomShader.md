@@ -16,11 +16,11 @@ Continuing on shader experiment, I wanted to create an aura effect, such as a cu
 
 From the [Code](/Experiences/Programming/Unity/ShaderLab/FirstShader02), it shows that the created effect is kind of hardcoded. Therefore, I went online to do some googling which leads me to [this](https://gamedev.stackexchange.com/questions/152609/moving-texture-according-to-position-in-shader).
 
-And I learnt about **Grab Pass** and **ComputeGrabScreenPos** by creating the following effects. [Code](/Experiences/Programming/Unity/ShaderLab/FirstShader03)
+And I learnt about **Grab Pass** and **ComputeGrabScreenPos** by creating the following effects. [Code](/Experiences/Programming/Unity/ShaderLab/FirstShader03).
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/Unity/ShaderLab/GIF/Shadow02.gif?raw=true"/>
 
-"X-Ray" using **ComputeGrabScreenPos** and **tex2Dproj**
+"X-Ray" using **ComputeGrabScreenPos** and **tex2Dproj**.
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/Unity/ShaderLab/GIF/Background01.gif?raw=true"/>
 
