@@ -122,7 +122,7 @@ Some interesting theories about our memory.
 
 ### [Bubble Shader in Unreal](/Experiences/Programming/Unreal/Shader/Bubble.md)
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/Unreal/Shader/GIF/Bubble.gif?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/Unreal/Shader/GIF/bubble.gif?raw=true"/>
 
 ---
 
