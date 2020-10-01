@@ -122,7 +122,7 @@ Some interesting theories about our memory.
 
 ### [Shadow Platformer](/Experiences/Programming/Unreal/GameplayMechanics/ShadowPlatformer.md)
 
-<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/Unreal/Gameplay Mechanics/Images/ShadowPlatformer.gif?raw=true"/>
+<img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/Unreal/GameplayMechanics/Images/ShadowPlatformer.gif?raw=true"/>
 
 ## Shader In Unreal
 
