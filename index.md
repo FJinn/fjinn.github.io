@@ -120,7 +120,7 @@ Some interesting theories about our memory.
 
 ## Game Mechanics
 
-### [Shadow Platformer](/Experiences/Programming/Unreal/Gameplay%20Mechanics/ShadowPlatformer.md)
+### [Shadow Platformer](/Experiences/Programming/Unreal/GameplayMechanics/ShadowPlatformer.md)
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/Unreal/Gameplay Mechanics/Images/ShadowPlatformer.gif?raw=true"/>
 
