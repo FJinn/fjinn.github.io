@@ -7,6 +7,8 @@ This link leads to a Facebook video by Playbae. I converted to gif for the conve
 
 <img src="https://raw.githubusercontent.com/FJinn/fjinn.github.io/master/Experiences/Programming/Unreal/GameplayMechanics/Images/InMyShadow.gif?raw=true"/>
 
+Official account of Playbae: [Facebook](http://www.facebook.com/playbae235) [Twitter](http://www.twitter.com/PlayBae235) [Instagram](http://www.instagram.com/playbaegames) [Youtube](https://www.youtube.com/channel/UCLB9eEm4HoqfcLVmmfvmBZQ)
+
 *Disclamer: I do not own the gif showed above. It belongs to the game In My Shadow from Playbae**
 
 Looking at the interesting game mechanics, I decided to try it out in Unreal. The following gif is my result.
