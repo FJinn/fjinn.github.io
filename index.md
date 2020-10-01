@@ -12,7 +12,6 @@
 ---
 
 <!--ts-->
-   * [LinkedIn](#my-portfolio-page)
    * [Table of Contents](#table-of-contents)
    * [Internship In Streamline](/Experiences/Programming/InternshipInStreamline.md)
    * [Design](#design)
