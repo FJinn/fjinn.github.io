@@ -1,5 +1,7 @@
 # -> [Fated Death](https://acekugen.itch.io/fateddeath) <-
 
+(Click the title to get to game page)
+
 Genres given: Combat, Turn-based, Military
 Theme: Death, Fighting Fate
 
