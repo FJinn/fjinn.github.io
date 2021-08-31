@@ -1,5 +1,7 @@
 # -> [The Day Of The Bomb Mission](https://globalgamejam.org/2019/games/day-bomb-mission) <-
 
+(Click the title to get to game page)
+
 In this game jam, we were trying to make a digital board game using Unity Engine.
 
 However, none of us had the experience and due to the time limit, we did not spend a lot of time on planning out the system.
