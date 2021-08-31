@@ -1,5 +1,7 @@
 # -> [Ethan Fry : Galactic Pirate Chef](https://play.google.com/store/apps/details?id=com.DejaVu.CookiingSpacePirate&hl=en) <-
 
+(Click the title to get to game page)
+
 Ethan Fry : Galactic Pirate Chef is a mobile game made in Unity Engine.
 
 I was in charge of making the inventory system for Ethan Fry to gather the ingredients to cook. 
