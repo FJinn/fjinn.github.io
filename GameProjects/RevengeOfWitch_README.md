@@ -1,5 +1,7 @@
 # -> [Revenge Of Witch](https://pfjinn.itch.io/revenge-of-witch) <-
 
+(Click the title to get to game page)
+
 This is the **FIRST** game I made.
 
 As my first step in game development, this game was made in Stencyl. 
