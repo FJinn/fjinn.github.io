@@ -1,5 +1,7 @@
 # -> [Z](https://pfjinn.itch.io/z) <-
 
+(Click the title to get to game page)
+
 This game jam I tried to develop a game by myself.
 
 I chose to be solo game jammer as I was reading and studying about Bezier Curve and decided to head to implementation of Bezier Curve in this game jam. 
