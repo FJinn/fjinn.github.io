@@ -1,5 +1,7 @@
 # -> [Nasty Samurai Wrangler](https://globalgamejam.org/2018/games/nasty-samurai-wrangler) <-
 
+(Click the title to get to game page)
+
 This is my **FIRST GAME JAM GAME!**
 
 My friends and I were just enrolled in game development course few months ago and with some basic knowledge of Stencyl game engine, we took a leap of faith to join in our first game jam.
