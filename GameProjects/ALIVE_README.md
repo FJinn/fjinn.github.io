@@ -1,6 +1,6 @@
 # -> [ALIVE](https://kdu.itch.io/adt11presents-alive) <- 
 
-(Click the title to get to itch.io page)
+(Click the title to get to game page)
 
 ALIVE is a 2-players platformer puzzle game.
 
