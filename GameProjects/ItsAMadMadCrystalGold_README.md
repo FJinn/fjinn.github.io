@@ -1,5 +1,7 @@
 # -> [Its a Mad, Mad Crystal Gold](https://acekugen.itch.io/its-a-mad-mad-crystal-gold) <-
 
+(Click the title to get to game page)
+
 Another game jam game.
 
 In this game jam, my team and I wanted to make an arcade-like game as none of us had any experience with this genre before.
