@@ -1,5 +1,6 @@
-# -> [ALIVE](https://kdu.itch.io/adt11presents-alive) <- (Click the title to get to itch.io page)
+# -> [ALIVE](https://kdu.itch.io/adt11presents-alive) <- 
 
+(Click the title to get to itch.io page)
 ALIVE is a 2-players platformer puzzle game.
 
 This is my first experience with Unity engine. In this development process, I have been assigned to to code (C#) gameplay mechanics such as moving boxes, projectile motion (stone throwing), key pick-up, crawling, and some UI indicator.  
