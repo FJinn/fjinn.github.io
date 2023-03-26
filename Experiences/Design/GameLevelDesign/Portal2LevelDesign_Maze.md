@@ -5,6 +5,15 @@ We made a 4 hour game jam which is to create a game level using Portal 2 in-game
 
 Never play the game before, so some of the mechanics were a bit fuzzy to me.
 
+We learnt and created the level within the limit of 4 hours.
+
+Theme: Escort - You need to bring yourself and the Companion Cube to the end of the Level
+
+Extra challenges: Able to finish the game with: 
+- No Jumping
+- All Black Walls (cannot portal through those wall)
+- Limit in shot (Less than 10 shots)
+
 Overall, it is a nice experience and I have more understandings about level design and tools in Portal 2 level editor.
 
 Do try it out if you have the game: https://steamcommunity.com/profiles/76561198173147110/myworkshopfiles/?appid=620
