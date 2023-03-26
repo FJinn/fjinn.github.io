@@ -1,7 +1,7 @@
 # Maze
-Made in Portal 2 Level Editor
+Made in a level design game jam created by my friends and I.
 
-My friends and I made a 4 hour game jam which is to create a game level using Portal 2 in-game level editor.
+We made a 4 hour game jam which is to create a game level using Portal 2 in-game level editor.
 
 Never play the game before, so some of the mechanics were a bit fuzzy to me.
 
