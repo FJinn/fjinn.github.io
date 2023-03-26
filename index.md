@@ -114,7 +114,7 @@ Some interesting theories about our memory.
 
 ## Level Design
 
-### -> [Maze in Portal 2](/Experiences/Design/GameLevelDesign/Portal2LevelDesign-Maze.md.md) <-
+### -> [Maze in Portal 2](/Experiences/Design/GameLevelDesign/Portal2LevelDesign-Maze.md) <-
 I made a game level using Portal 2 Level Editor within 4 hours.
 
 ---
