@@ -11,6 +11,8 @@ Overall, it is a nice experience and I have more understandings about level desi
 
 Do try it out if you have the game: https://steamcommunity.com/profiles/76561198173147110/myworkshopfiles/?appid=620
 
+For more information, do visit my notion page: https://longing-property-e52.notion.site/Level-Design-Maze-in-Portal-2-7b53e350455d4d5f8c0684d9235fc751
+
 ## Theme: Escort - You need to bring yourself and the Companion Cube to the end of the Level
 
 Extra challenges: Able to finish the game with: 
