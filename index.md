@@ -92,7 +92,7 @@ My thoughts on the quest system of RPG games that have open world setting.
 ### ->[Consistency In Control](/Experiences/Design/UserExperience/ConsistencyInControl.md) <-
 Topic that generated from a First Person Shooter game I played.
 
-### -> [Five Elements in UX Design](/Experiences/Design/UserExperience/FiveElementsInDesign.md) <-
+### -> [Five Elements in UX Design](/Experiences/Design/UserExperience/FiveElementsInUXDesign.md) <-
 After watching [Using the Five Elements of User Experience in Game Design](https://www.youtube.com/watch?v=wZf2hjaj4kg) video, I decided to take note from it.
 
 ### -> [Dark Patterns In Games](/Experiences/Design/UserExperience/DarkPatternsInGames.md) <-
