@@ -19,6 +19,7 @@
      * [Game World Creation](#game-world-creation)
      * [UX Design](#ux-design)
      * [Level Design](#level-design)
+     * [Design Documentation](#game-design-documentation)
    * [Programming](#programming)
      * [Game Mechanics](#game-mechanics)
      * [Shader In Unreal](#shader-in-unreal)
