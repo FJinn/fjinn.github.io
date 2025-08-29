@@ -117,6 +117,16 @@ Some interesting theories about our memory.
 ### -> [Maze in Portal 2](/Experiences/Design/GameLevelDesign/Portal2LevelDesign_Maze.md) <-
 I made a game level using Portal 2 Level Editor within 4 hours.
 
+### -> [Maze in Portal 2](/Experiences/Design/GameLevelDesign/ObstacleChallenge.md) <-
+I created a level about obstacle challenges within 5 days.
+
+---
+
+## Game Design Documentation
+
+### -> [Maze in Portal 2](/Experiences/Design/DesignDocumentation/ProposedGameMode.md) <-
+I proposed and documented a possible new game mode for an existing game within 4 days.
+
 ---
 ---
 
